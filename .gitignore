@@ -1,4 +1,3 @@
-BetterDiscord
 BetterDiscord Installer
 GIMP
 KDE
@@ -8,7 +7,6 @@ Slack
 TabNine
 Trolltech.conf
 akregatorrc
-alacritty
 arkrc
 auroraerc
 autostart
@@ -73,8 +71,6 @@ matplotlib
 mimeapps.list
 mpv
 neofetch
-nushell
-nvim
 obsidian
 octopi
 okularpartrc
@@ -93,19 +89,16 @@ powerdevilrc
 powermanagementprofilesrc
 psd
 pulse
-qutebrowser
 ranger
 retroarch
 session
 soffice.binrc
 spectaclerc
-spicetify
 spotify
 systemmonitorrc
 systemsettingsrc
 touchpadxlibinputrc
 user-dirs.dirs
 user-dirs.locale
-variety
 xdg-desktop-portal-kderc
 xsettingsd

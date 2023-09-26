@@ -509,7 +509,7 @@ c.colors.downloads.system.bg = 'rgb'
 ## `colors.webpage.darkmode.threshold.background` to 205.  - "With
 ## selective inversion of everything": Combines the two variants   above.
 ## Type: Bool
-# c.colors.webpage.darkmode.enabled = False
+c.colors.webpage.darkmode.enabled = True
 
 ## Render all colors as grayscale. This only has an effect when
 ## `colors.webpage.darkmode.algorithm` is set to `lightness-hsl` or
@@ -1107,7 +1107,7 @@ c.content.javascript.can_access_clipboard = True
 ## List of user stylesheet filenames to use.
 ## Type: List of File, or File
 # c.content.user_stylesheets = []
-c.content.user_stylesheets = ["~/.qutebrowser/solarized-everything-css/css/tokyonight/tokyonight-all-sites.css"]
+c.content.user_stylesheets = ["~/.config/qutebrowser/solarized-everything-css/css/tokyonight/tokyonight-all-sites.css"]
 
 ## Enable WebGL.
 ## Type: Bool
@@ -1840,7 +1840,7 @@ c.content.user_stylesheets = ["~/.qutebrowser/solarized-everything-css/css/tokyo
 ## Scaling factor for favicons in the tab bar. The tab size is unchanged,
 ## so big favicons also require extra `tabs.padding`.
 ## Type: Float
-c.tabs.favicons.scale = 1.25
+c.tabs.favicons.scale = 2
 
 ## When to show favicons in the tab bar. When switching this from never
 ## to always/pinned, note that favicons might not be loaded yet, thus
@@ -1862,7 +1862,7 @@ c.tabs.favicons.scale = 1.25
 
 ## Width (in pixels) of the progress indicator (0 to disable).
 ## Type: Int
-# c.tabs.indicator.width = 3
+c.tabs.indicator.width = 0
 
 ## How to behave when the last tab is closed. If the
 ## `tabs.tabs_are_windows` setting is set, this is ignored and the
@@ -1882,7 +1882,7 @@ c.tabs.favicons.scale = 1.25
 ## not apply properly if max_width is smaller than the minimum size of
 ## tab contents, or smaller than tabs.min_width.
 ## Type: Int
-# c.tabs.max_width = -1
+c.tabs.max_width = 48
 
 ## Minimum width (in pixels) of tabs (-1 for the default minimum size
 ## behavior). This setting only applies when tabs are horizontal. This
@@ -1931,7 +1931,7 @@ c.tabs.favicons.scale = 1.25
 
 ## Padding (in pixels) around text for tabs.
 ## Type: Padding
-c.tabs.padding = {'bottom': 13, 'left': 8, 'right': 8, 'top': 13}
+c.tabs.padding = {'bottom': 16, 'left': 8, 'right': 8, 'top': 16}
 
 ## Force pinned tabs to stay at fixed URL.
 ## Type: Bool
@@ -1948,7 +1948,7 @@ c.tabs.padding = {'bottom': 13, 'left': 8, 'right': 8, 'top': 13}
 ##   - bottom
 ##   - left
 ##   - right
-c.tabs.position = 'top'
+c.tabs.position = 'left'
 
 ## Which tab to select when the focused tab is removed.
 ## Type: SelectOnRemove
@@ -1998,7 +1998,7 @@ c.tabs.show = 'multiple'
 ## web page. * `{protocol}`: Protocol (http/https/...) of the current web
 ## page. * `{audio}`: Indicator for audio/mute status.
 ## Type: FormatString
-# c.tabs.title.format = '{audio}{index}: {current_title}'
+c.tabs.title.format = ''
 
 ## Format to use for the tab title for pinned tabs. The same placeholders
 ## like for `tabs.title.format` are defined.
@@ -2018,7 +2018,7 @@ c.tabs.show = 'multiple'
 ## Width (in pixels or as percentage of the window) of the tab bar if
 ## it's vertical.
 ## Type: PercOrInt
-# c.tabs.width = '15%'
+c.tabs.width = 48
 
 ## Wrap when changing tabs.
 ## Type: Bool
@@ -2052,7 +2052,7 @@ c.url.default_page = 'https://wikipedia.org'
 ## Open base URL of the searchengine if a searchengine shortcut is
 ## invoked without parameters.
 ## Type: Bool
-# c.url.open_base_url = False
+c.url.open_base_url = True
 
 ## Search engines which can be used via the address bar.  Maps a search
 ## engine name (such as `DEFAULT`, or `ddg`) to a URL with a `{}`
@@ -2079,6 +2079,9 @@ except:
     c.url.searchengines = {'DEFAULT': 'https://bing.com/?q={}'}
 else:
     c.url.searchengines = {'DEFAULT': 'https://duckduckgo.com/?q={}'}
+c.url.searchengines.update({'you': 'https://youtube.com/results?search_query={}'})
+c.url.searchengines.update({'r': 'https://reddit.com/r/{}'})
+c.url.searchengines.update({'wiki': 'https://en.wikipedia.org/w/index.php?search={}'})
 
 ## Page(s) to open at the start.
 ## Type: List of FuzzyUrl, or FuzzyUrl
@@ -2128,8 +2131,8 @@ c.url.start_pages = ['https://wikipedia.org']
 # config.bind('+', 'zoom-in')
 # config.bind('-', 'zoom-out')
 # config.bind('.', 'repeat-command')
-# config.bind('/', 'set-cmd-text /')
-# config.bind(':', 'set-cmd-text :')
+# config.bind('/', 'cmd-set-text /')
+# config.bind(':', 'cmd-set-text :')
 # config.bind(';I', 'hint images tab')
 # config.bind(';O', 'hint links fill :open -t -r {hint-url}')
 # config.bind(';R', 'hint --rapid links window')
@@ -2185,9 +2188,9 @@ c.url.start_pages = ['https://wikipedia.org']
 # config.bind('<back>', 'back')
 # config.bind('<forward>', 'forward')
 # config.bind('=', 'zoom')
-# config.bind('?', 'set-cmd-text ?')
+# config.bind('?', 'cmd-set-text ?')
 # config.bind('@', 'macro-run')
-# config.bind('B', 'set-cmd-text -s :quickmark-load -t')
+# config.bind('B', 'cmd-set-text -s :quickmark-load -t')
 # config.bind('D', 'tab-close -o')
 # config.bind('F', 'hint all tab')
 # config.bind('G', 'scroll-to-perc')
@@ -2197,7 +2200,7 @@ config.bind('K', 'tab-prev')
 # config.bind('L', 'forward')
 # config.bind('M', 'bookmark-add')
 # config.bind('N', 'search-prev')
-config.bind('o', 'set-cmd-text -s :open -t')
+config.bind('o', 'cmd-set-text -s :open -t')
 # config.bind('PP', 'open -t -- {primary}')
 # config.bind('Pp', 'open -t -- {clipboard}')
 # config.bind('R', 'reload -f')

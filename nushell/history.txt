@@ -1392,3 +1392,12 @@ git ls-files
 git add .
 git ls-files
 vim .gitignore
+git add .
+git ls-files
+vim .gitignore
+git ls-files
+cd Logseq
+ls
+tree
+vim .gitignore
+git commit -m "update"

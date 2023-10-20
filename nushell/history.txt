@@ -1,0 +1,1394 @@
+clear
+exit
+clear
+ls
+spicetify apply
+cd spicetify
+ls
+vim config-xpui.ini
+which spotify
+cd ~
+ls
+cd ~/.config/spicetify
+vim config-xpui.ini
+spicetify apply
+vim config-xpui.ini
+spicetify apply
+spotify
+sudo chmod a+qr /opt/spotify
+sudo chmod a+wr /opt/spotify
+sudo chmod a+wr /opt/spotify/Apps -R
+spicetify apply
+sudo chmod a+wr /bin/spotify/Apps -R
+sudo chmod a+wr /bin/spotify/Apps/ -R
+cd /bin/spotify
+cd /bin
+ls
+clear
+ls
+cd nvim
+ls
+cd ..
+git clone https://github.com/FaunuX/neovim-config
+ls
+cd nvim
+ls
+cd ..
+mv neovim-config nvim
+ls
+nvim
+cd nvim
+ls
+mv neovim-config/ ../nvim/
+mv neovim-config/ ../nvim_/
+cd ..
+ls
+rm -rf nvm
+rm -rf nvim
+mv nvim_ nvim
+cd nvim
+ls
+nvim
+nvim init.lua
+sudo pacman -S nvim-packer-git
+sudo pacman -S nvim-packer-git.git
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+git clone --depth 1 https://github.com/wbthomason/packer.nvim ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+nvim
+ls
+cd lua
+ls
+nvim plugin.lua
+nvim settings.lua
+nvim
+nvim plugin.lua
+cd ..
+nvim init.lua
+exit
+clear
+pacman -S xdotool
+sudo pacman -S xdotool
+xdotool key ctrl+q
+xdotool key ctrl+space
+exit
+neofetch
+clear
+neofetch
+exit
+neofetch
+clear
+neofetch
+neoftech
+exit
+neofetch
+npm i stylus -g
+exit
+ls
+mv Downloads/Downloads/ Downloads/
+mv Downloads/Downloads/ Download/
+rm -rf Download
+mv Downloads/Downloads/ Download/
+rm -rf Downloads
+mv Download/ Downloads/
+rm -rf pictures
+ls
+rm -rf Pictures
+mv Downloads/images/ Pictures/
+cd Downloads
+ls
+cd ..
+mv Documents/Documents/ Document/
+rm -rf Documents/
+mv Document/ Documents/
+cd .config/qutebrowser/solarized-everything-css/
+npm i stylus -g
+sudo npm i stylus -g
+make
+ls
+cd css
+cd tokyonight
+make
+cd ..
+make
+cd css
+ls
+cp -r solarized-dark tokyonight
+cd ..
+make
+vim themes/tokyonight/colors.styl
+make
+vim make.py
+ls
+make
+cd themes
+ls
+mv solarized/dark.styl tokyonight/dark.styl
+make
+cd ..
+make
+make screenshots
+exit
+spicetify apply
+cd .config
+cd spicetify/
+clear
+ls
+vim config-xpui.ini
+exit
+cd Developer
+ls
+cd chromahacker_ml/
+ls
+python3 data_formation.py
+pip install chromahacker
+sudo pacman -S pip
+pip3 install chromahacker
+sudo pacman -S python3-pip
+sudo pacman -S python-pip
+pip3 install chromahacker
+pip install chromahacker
+pipx install chromahacker
+vim data_formation.py
+python3 data_formation.py
+vim data_formation.py
+python3 data_formation.py
+vim data_formation.py
+python3 data_formation.py
+pipx run data_formation.py
+pipx run python3 data_formation.py
+cd ..
+poetry -v
+sudo pacman -S python-poetry
+poetry new chromahackerml
+cd chromahackerml/
+mv ../chromahacker_ml/data_formation.py chromahackerml/__main__.oy
+mv chromahackerml/__main__.oy chromahackerml/__main__.py
+rm -rf chromahackerml/__init__.py
+poetry add chromahacker
+poetry run chromahackerml/
+poetry run python3 chromahackerml/
+mv ~/colorschemes.json colorschemes.json
+mv ~/Downloads/id_clut.png id_clut.png
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+ls
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+sudo pacman -S obsidian
+exit
+sudo pacman -S retroarch
+exit
+pipx install chromahackerweb
+chromahackerweb
+pipx uninstall chromahackerweb
+cd Developer
+git clone https://github.com/FaunuX/chromahackerweb
+cd chromahackerweb/
+clear
+ls
+neovide pyproject.toml
+poetry install
+poetry lock
+poetry install
+poetry run chromahackerweb
+exit
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+nvim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+nvim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+cd Developer/chromahackerweb/
+poetry python3 chromahackerweb/
+poetry run python3 chromahackerweb/
+poetry run python3 chromahackerweb
+poetry run chromahackerweb
+vim chromahackerml/__main__.py
+poetry run chromahackerweb
+poetry run python3 chromahackerml/
+exit
+vim pyproject.toml
+poetry run python3 chromahackerml/
+poetry run chromahackerweb
+cd ..
+cd Downloads
+ls
+poetry run chromahackerweb
+cd ~/Developer/chromahackerweb/
+poetry run chromahackerweb
+cd ~/Downloads/
+ls
+cd Downloads
+mv scifi_city.png ~/.config/variety/wallpaper/
+exit
+cd Developer/chromahackerml/
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+exit
+sudo pacman -S ranger
+ranger
+exit
+sudo pacman -S r
+R
+exit
+cd .config/alacritty/
+vim alacritty.yml
+exit
+curl
+exit
+curl parrot.live
+exit
+cd Developer/chromahackerml/
+ls
+images.npz
+ipython
+which spotify
+sudo chmod a+wr /usr/bin/spotify
+sudo chmod a+wr /usr/bin/spotify/Apps -R
+sudo chmod a+wr /usr/bin/spotify/Apps
+spicetify apply
+cd /opt/
+ls
+cd ~/.config/spicetify/
+ls
+vim config-xpui.ini
+sudo chmod a+wr /opt/spotify
+sudo chmod a+wr /opt/spotify/Apps
+spicetify apply
+spicetify backup apply
+spicetify restore backup
+spicetify backup apply
+spotify
+cd Themes
+ls
+cd TokyoNight-spicetify/
+ls
+spicetify backup apply
+spicetify restore backup
+spicetify backup apply
+exit
+poetry run python3 chromahackerml/
+neovide
+sudo pacman -S vencord
+exit
+cd Developer/chromahackerweb/
+poetry run python3 chromahackerml/
+cd ~/.config
+clear
+ls
+cd nushell
+ls
+neovide config.nu
+exit
+cd .config
+ls
+The title text refers to a hidden button behind the bookshelf, but Cueball did not find it. This is ironic because, however much people may hope, there has never been a single button or easy solution to fix our problems.<\n><\n>The title text refers to a hidden button behind the bookshelf, but Cueball did not find it. This is ironic because, however much people may hope, there has never been a single button or easy solution to fix our problems.<\n><\n>The title text refers to a hidden button behind the bookshelf, but Cueball did not find it. This is ironic because, however much people may hope, there has never been a single button or 
+clear
+ls
+rm xdg-desktop-portal-kderc
+ls
+rm user-dirs.locale
+rm users-dirs.dirs
+rm user-dirs.dirs
+ls
+cd discord
+ls
+cd ..
+cd .config
+cd alacritty
+clear
+ls
+neovide alacritty.yml
+cd ~/Developer/chromahackerml/
+poetry run python3 chromahackerml/
+neovide chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+neovide chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+cd ..
+cd  chromahackerweb
+poetry run chromahackerweb
+exit
+sudo pacman -S godot
+cd Developer
+git clone https://github.com/ip36/Vimjam
+rm -rf Vimjam/
+git clone https://github.com/ip36/Vimjam
+cd ../.config/qutebrowser/
+sudo pacman -S ungoogle-chromium
+sudo pacman -S ungoogled-chromium
+exit
+sudo pacman -S dosbox
+mkdir Games
+cd .config
+ls
+dir
+ls
+cd ..
+ls
+ls -a
+cd .dosbox
+ls
+vim dosbox-0.74-3.conf
+mkdir ~/Games/DOSBox
+exit
+pacman -Syu
+sudo pacman -Syu
+sudo pacman -S betterdiscord-installer
+sudo pacman -S betterdiscord
+exit
+spicetify backup apply
+exit
+sudo pacman -S texlive-full
+sudo pacman -S texlive-most
+sudo pacman -S nano
+sudo pacman -Syu
+sudo pacman -S texlive-most
+sudo pacman -S texlive-full
+sudo pacman -S texlive_full
+sudo pacman -S texlive
+pdftex --version
+ls
+cd Documents
+ls
+mkdir Math/
+vim week_9_20.tex
+mv week_9_20.tex Math/week_9_20.tex
+cd Math
+pdftex week_9_20.tex
+vim week_9_20.tex
+pdflatex week_9_20.tex
+ls
+open week_9_20.pdf
+ls
+vim week_9_20.tex
+pdflatex week_9_20.tex
+vim week_9_20.tex
+pdflatex week_9_20.tex
+cd ~/Developer/chromahackerweb/
+poetry run chromahackerweb
+exit
+ps
+ps | sort-by name
+clear
+ls
+cd ~/Documents/Math/
+pdflatex week_9_20.tex
+k
+pdflatex week_9_20.tex
+exit
+ls
+cd Developer/chromahackerml/
+mv images.npz ~/Documents/Data/images.npz
+mkdir ~/Documents/Data/
+mv images.npz ~/Documents/Data/images.npz
+poetry run python3 chromahackerml/
+cd Developer/chromahackerml/
+ls
+vim chromahackerml/__main__.py
+exit
+r
+cd Developer/chromahackerml/
+clear
+vim chromahackerml/__main__.py
+exit
+clear
+ls
+cd Developer/chromahackerml/
+poetry run python3 chromahackerml/
+neovide chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+cd ~/Downloads
+ls
+cd ~/Developer/chromahackerml
+poetry run python3 chromahackerml/
+ps
+kill --help
+ps | sort-by name
+R
+exit
+poetry run python3 chromahackerml/
+cd Developer/chromahackerml/
+ls
+cd Games/DOSBox/
+ls
+cd Civilizations/
+ls
+cat replay.txt
+cat REPLAY.TXT
+ls
+ls | filter-by *.txt
+ls
+vim BLURB0.TXT
+vim BLURB4.TXT
+ls
+vim INTRO.TXT
+vim INTRO3.TXT
+ls
+cd Games/DOSBox/
+ls
+cd Civilizations/
+ls
+vim STORY.TXT
+exit
+cd Developer/chromahackerml/
+ls
+neovide chromahackerml/__main__.py
+clear
+ps | sort-by name
+sudo kill 2165
+cd Developer/chromahackerml/
+ls
+neovide chromahackerml/__main__.py
+vim pyproject.toml
+poetry run python3 chromahackerml/
+cd Developer/chromahackerml/
+neovide chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+sudo pacman -S pixelorama
+sudo pacman -S piskel
+sudo pacman -S ungoogled-chromium
+exit
+ps | sort-by name
+sudo kill 70553
+ps
+clear
+ls
+cd .config
+ls
+cd BetterDiscord
+ls
+cd ..
+cd `BetterDiscord Installer/`
+ls
+cd ..
+ls
+touch .gitignore
+ls -a | echo >> .gitignore
+ls -a | get name | echo >> .gitignore
+cat .gitignore
+exit
+cp (ls -a) .gitignore
+cp (ls -a | to string) .gitignore
+cp (ls -a | into string) .gitignore
+ls -a
+ls -a | into string
+ls -a | to nuon
+ls -a | get name | into string
+cp (ls -a | get name | into string) .gitignore
+ls -a | get name | each |file| echo file >> .gitignore
+ls -a | get name | each {|file| echo file >> .gitignore}
+cat .gitignore
+ls -a | table | save .gitignore
+ls -af | table | save .gitignore
+cat .gitignore
+ls -a -f | table | save .gitignore
+ls -a | table | save -f .gitignore
+cat .gitignore
+vim .gitignore
+ls -a | get name | table | save -f .gitignore
+cat .gitignore
+vim .gitignore
+ls -a | get name | to text | save -f .gitignore
+vim .gitignore
+git add .
+git commit -m "update"
+git config --global user.email "judahpspiegel@gmail.com"
+git config --global user.name "FaunuX"
+git commit -m "update"
+git push
+cd nvim
+rm -rf .git
+cd ..
+vim .gitignore
+git add .
+git commit -m "update"
+git push
+cd nvim
+ls
+ls -a
+cd .
+cd //
+ls
+cd ~
+;s
+ls
+cd Developer
+ls
+cd chromahackerwev
+cd chromahackerweb
+ls
+open wezterm_colors.json
+exit
+exit
+neofetch
+sudo pacman -S gcalcli
+pipx install gcalcli
+pipx ensurepath
+gcalcli
+cd ~/.config/nushell/
+ps | sort-by name
+sudo kill 9546
+clear
+vim ~/.config/nushell/env.nu
+pipx
+pipx environment
+pipx list
+gcalcli
+pipx gcalcli
+pipx uninstall gcalcli
+pip install gcalcli
+sudo pacman -S python-gcalcli
+pipx install gcalcli
+cd ~/.config/nushell/
+vim env.nu
+exit
+gcalcli
+gcalcli agenda
+mkdir /home/judah/.gcalcli_oauth
+gcalcli agenda
+rm .gcalcli_oath
+rm -rf .gcalcli_oath
+rm -r .gcalcli_oauth
+ls -a
+touch .gcalcli_oauth
+gcalcli agenda
+pipx uninstall gcalcli
+sudo pacman -S google-calendar-nativefier
+gcalcli agenda
+exit
+nu
+exit
+sudo pacman -S logseq
+sudo pacman -S logseq-desktop
+exit
+sudo pacman -S logseq-desktop
+sudo pacman -S logseq-desktop-bin
+exit
+ls
+mkdir Documents
+git clone https://github.com/dale502/logseq-tokyo-night-theme
+ls
+rm -rf logseq-tokyo-night-theme
+cd .config
+ls
+cd Logseq
+ls
+cd search
+ls
+cd ..
+curl parrot.live
+ls
+nvim
+exit
+sudo pacman -S neomutt
+neomutt
+ls
+ls -a
+cd .config
+ls
+cd ..
+cd ~/.config
+cd neomutt
+mkdir neomutt
+cd neomutt
+touch neomuttrc
+vim neomuttrc
+neomutt
+exit
+sudo pacman -S logseq-desktop
+chromahackerweb
+exit
+sudo pacman -Syy logseq-desktop
+logseq
+exit
+mv Downloads/Documents/ Documents_old/
+ls
+tree Documents_old
+sudo pacman -S tree
+tree
+tree Documents_old
+mv Documents_old/brag_sheet.txt Documents/college_stuff.txt
+clear
+tree -v
+cd /
+tree
+ls
+cd ~
+ls
+clear
+tree
+clear
+cd Developer
+ls
+git clone https://github.com/FaunuX/chromahacker
+cd chromahacker/ls
+cd chromahacker/
+ls
+rm -rf machine_learning/
+ls
+cd backend
+ls
+cd frontend
+cd ..
+cd frontend
+ls
+cd chromahackerweb/
+ls
+vim __main__.py
+mv ~/Documents/model.pickle model.pickle
+cd ..
+ls
+git add .
+git commit -m "add model.pickle, add machine learning files"
+git push
+ls
+cd frontend
+poetry run chromahackerweb
+poetry install
+poetry run chromahackerweb
+ls
+vim chromahackerweb/__main__.py
+poetry run chromahackerweb
+cd ..
+cd chromahackerml/
+ls
+cd chromahackerml/
+ls
+vim __main__.py
+poetry run python3 chromahackerml/
+cd ..
+poetry run python3 chromahackerml/
+poetry install
+poetry run python3 chromahackerml/
+vim __main__.py
+vim chromahackerml/__main__.py
+ps
+ps | sort-by name
+sudo kill 44343
+cd ~/Developer/chromahackerml
+vim chromahackerml/__main__.py
+cp chromahackerml/__main__.py chromahackerml/main.py
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+ranger
+vim chromahackerml/__main__.py
+vim chromahackerml/main.py
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+vim chromahackerml/__main__.py
+poetry run python3 chromahackerml/
+logseq
+exit
+ls
+cd Documents
+ls
+cat college_stuff.txt
+exit
+ls
+cd Documents
+ls
+cd logseq
+ls
+cd bak
+ls
+cd logseq
+ls
+cd config
+ls
+cd ..
+vim chromahackerml/__main__.py
+exit
+ls
+ls -a
+cd bak
+ls
+ls -a
+cd logseq
+ls
+cd custom
+ls
+cd ..
+cd config
+ls
+cd ..
+cd ~/.config
+ls
+cd logseq
+exit
+ps
+ps | sort-by name
+cd Documents
+mkdir Notes
+ls
+mv journals/ Notes/journals/
+mv logseq/ Notes/logseq/
+mv pages/ Notes/pages/
+exit
+clear
+ls
+cd chromahacker
+ls
+cd frontend
+ls
+cd ..
+cd .
+cd ..
+cp chromahackerml/colorschemes.json chromahacker/frontend/colorschemes.json
+cp chromahackerml/id_clut.png chromahacker/frontend/id_clut.png
+cd chromahacker/frontend/
+poetry run chromahackerweb
+tree
+mv chromahackerweb/model.pickle model.pickle
+poetry run chromahackerweb
+poetry add tensorflow
+clear
+cd Developer/chromahacker/frontend/
+poetry add tensorflow
+poetry add keras
+poetry run chromahackerweb
+poetry add tensorflow
+poetry run chromahackerweb
+poetry install
+poetry add tensorflow
+poetry install
+poetry add tensorflow
+poetry install
+poetry add tensorflow
+poetry run chromahackerweb
+exit
+cat ~/Documents/Notes/logseq/custom.css
+cd Documents
+ls
+cd Notes
+ls
+cd journals
+ls
+cd ..
+ls
+cd ..
+ls
+cd journals
+ls
+mv * ../Notes/journals/*
+mv * ../Notes/journals/
+ls
+cd ..
+ls
+tree pages
+mv page/* Notes/pages/
+mv pages/* Notes/pages/
+cd ~/Developer/chromahacker/
+ls
+cd frontend
+ls
+rm model.pickle
+poetry run chromahackerweb
+curl parrot.live
+clear
+sudo pacman -S opera
+cd Developer/chromahacker/frontend
+cd /
+tree
+sudo rm -r *
+cd ~/Developer/chromahacker/frontend/
+ls
+exit
+clear
+ls
+mv backend/ image_lib/
+mv frontend/ backend/
+sudo pacman -S vite
+npm -v
+npm create vite@latest
+cd frontend
+ls
+cd chromahacker_frontend/
+npm i -g
+npm i
+npm start
+npm run
+vite
+ls
+cat vite.config.ts
+cat package.json
+npm run dev
+ls
+cat package.json
+open package.json
+npm run dev
+yard add https://github.com/EricDevv/react.glass
+npm i git+https://github.com/EricDevv/react.glass.git
+npm i blueprint
+npm uninstall blueprint
+npm i --save @blueprintjs/core
+npm run dev
+mv `~/Downloads/ChromaHacker Logo.png` ~/Developer/chromahacker/chromahacker_frontend/public/
+npm run dev
+npm i --save @blueprintjs/icons
+npm run dev
+npm i -D tailwindcss
+npx tailwindcss init
+npm run dev
+cd Developer/chromahacker/chromahacker_frontend/
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch<\n>
+ls
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch<\n>
+exit
+npm i -D tailwindcss
+npm i -D tailwindcss postcss autoprefixer
+npm run dev
+arch update
+pacman -Syu
+sudo pacman -Syu
+sudo pacman -S betterdiscord-installer
+sudo pacman -S betterdiscord
+sudo pacman -Syy betterdiscord-installer
+cd Downloads
+./BetterDiscord-Linux.AppImage
+ls
+cd ~/.config
+ls
+vim .gitignore
+exit
+npm tailwindcss init -p
+npx tailwindcss init -p
+npm run dev
+cd ..
+mv chromahacker_frontend chromahacker_old_frontend
+npm creat vite@latest chromahacker_frontend
+cd chromahacker_frontend/
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm run dev
+cd ..
+rm -rf chromahacker_frontend
+mv chromahacker_old_frontend/ chromahacker_frontend/
+cd chromahacker_frontend
+npm run dev
+npm install install tailwindcss@insiders
+npx tailwindcss init -p
+npm install
+npm run dev
+npm i --save @types/react @types/react-dom
+systemsettings5
+systemsettings
+exit
+ls
+cd .config
+ls
+clear
+ls
+vim kwinrc
+exit
+cd .config
+ls
+vim kwinrc
+exit
+clear
+cd ..
+clear
+neofetch
+exit
+cd Developer/PEANUT_BUTTER_AND_JELLY/
+ls
+sudo rm -rf *
+ls
+cd ..
+poetry new PEANUT_BUTTER_AND_JELLY
+cd PEANUT_BUTTER_AND_JELLY/
+ls
+cd PEANUT_BUTTER_AND_JELLY/
+ls
+cd peanut_butter_and_jelly/
+vim __main__.py
+poetry run python3 __main.py__
+ls
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+poetry add pyaduio
+poetry add pyaudio
+vim __main__.py
+ls
+cd ..
+ls
+cd peanut_butter_and_jelly/
+poetry run python3 __main__.py
+mv ../music.wav music.wav
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+neovide __main__.py
+vim __main__.py
+poetry build
+poetry build -f sdist
+ls
+cd ..
+ls
+cd dist
+ls
+./peanut_butter_and_jelly-0.1.0.tar.gz
+sudo ./peanut_butter_and_jelly-0.1.0.tar.gz
+peanut_butter_and_jelly-0.1.0.tar.gz
+aplay
+sudo pacman -S aplay
+sudo pacman -Syy aplay
+sudo pacman -S alsa0utils
+sudo pacman -S alsa-utils
+cd dist
+cd ..
+cd peanut_butter_and_jelly/
+ls
+aplay music.wav
+exit
+clear
+curl parrot.live
+clear
+exit
+exit
+clear
+cd ~/Developer/chromahacker/backend/
+poetry run python3 __main__.py
+poetry run python3 chromahackerweb/
+poetry install
+poetry run python3 chromahackerweb/
+poetry install
+poetry update
+poetry install
+poetry run python3 chromahackerweb/
+poetry run chromahackerweb/
+asdf;lkj  ;aslkdjfkdlsjflsjf;alskdjflksjdf;lk   ;lkjjjjjj
+os
+om
+which python3
+which which
+cd /
+tree
+exit
+curl parrot.live
+exit
+clear
+cd chromahacker_frontend/
+cd ~/Developer/chromahacker/backend/
+poetry run chromahackerweb/
+cd ..
+cd image_lib/
+poetry install
+poetry run tests
+poetry run test
+cd ~/.config/
+ls
+cd matplotlib
+ls
+vim matplotlibrc
+cd ~/Developer/chromahacker/image_lib/
+poetry run test
+poetry add PySide6
+poetry add pyqt6
+poetry add PySide6
+poetry run test
+vim ~/.config/matplotlib/matplotlibrc
+poetry run test
+poetry add tornado
+poetry run test
+ps
+sudo lsof
+sudo lsof -i -P -n | grep LISTEN
+lsof
+vim ~/.config/matplotlib/matplotlibrc
+sudo lsof -i -P -n | grep LISTEN
+poetry run test
+exit
+poetry run test
+sudo pacman -S python3-matplotlib
+sudo pacman -Syy
+sudo pacman -S python3-matplotlib
+sudo pacman -Syy python3-matplotlib
+sudo pacman -S python-matplotlib
+vim ~/.config/matplotlib/matplotlibrc
+poetry run test
+cd ../../
+mkdir matplotlib test
+ls
+cd test/
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+cd ~/Developer/chromahacker/image_lib/
+poetry run python3 chromahackerweb/
+poetry run test
+cd ~/Developer/chromahacker/image_lib/
+poetry run test
+poetry run python3 chromahacker/color_input.py
+exit
+cd image_lib
+poetry run test
+poetry install
+poetry build
+poetry publish
+poetry publish -u FaunuX -p python_aryar17
+poetry build
+poetry publish -u FaunuX -p python_aryar17
+poetry build
+poetry publish -u FaunuX -p python_aryar17
+git push
+cd Developer/chromahacker/image_lib
+git push
+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
+git push
+cd ../chromahacker_frontend/
+poetry update
+ls
+cd ..
+cd backend/
+poetry update
+poetry run chromahackerweb/
+poetry install
+poetry add requests
+poetry install
+poetry run chromahackerweb/
+poetry install
+exit
+poetry run chromahackerweb/
+cd Developer/chromahacker/image_lib/
+poetry build
+poetry publish -u FaunuX -p python_aryar17
+git add .
+git commit -m "fix weird bug where I forgot to import stuff"
+git pus
+git push
+poetry install
+poetry update
+ls
+cd chromahacker
+ls
+cat process_image.py
+poetry run chromahackerweb/
+poetry install
+cd /
+tree
+ls
+cd log
+cd usr
+ls
+cd log
+cd local
+ls
+cd log
+cd ..
+ls
+tree ls
+cd var
+ls
+cd log
+ls
+cd samba
+ls
+poetry install
+ipoetry lock
+poetry lock
+poetry install
+curl parrot.live
+cd ~/Developer/chromahacker/image_lib/
+poetry install
+cd ..
+cd backend/
+poetry install
+poetry lock
+poetry install
+cd .config
+ls
+cd ranger
+cd ..
+cd variety
+ls
+cd wallpaper
+tree
+gimp new_zealand.png
+cd ..
+cd chromahacker_frontend/
+poetry run chromahackerweb/
+cd Developer/chromahacker/backend/
+cd Developer/chromahacker/chromahacker_frontend/
+npm run dev
+vim src/App.tsx
+poetry run chromahackerweb/
+cd chromahacker/chromahacker_frontend/
+cd Developer/chromahacker/backend/
+poetry run chromahackerweb/
+npm run dev
+poetry run chromahackerweb/
+npm run dev
+cd .config
+cd variety
+tree
+cd wallpaper/
+mv wallpaper/lord_of_the_rings.png wallpapers/
+tree
+rm -rf wallpaper
+exit
+sudo pacman -S betterdiscord
+sudo pacman -S betterdiscord-installer
+sudo pacman -Syy betterdiscord-installer
+cd .config/variety
+ls
+cd wallpaper
+ls
+cd wallpaper
+ls
+mv sea_monster.png ../wallpapers/
+ls
+cd ..
+rmdir wallpaper
+ls
+gimp scifi_city.png
+cd ~/Downloads/
+ls
+./BetterDiscord-Linux.AppImage
+exit
+exit
+poetry run chromahackerweb/
+npm run dev
+poetry run chromahackerweb/
+npm run dev
+poetry run chromahackerweb/
+exit
+cd Developer/chromahacker/backend/
+clear
+cd Developer/chromahacker/chromahacker_frontend/
+poetry run chromahackerweb/
+vim chromahackerweb/__main__.py
+npm run dev
+clear
+sudo pacman -S kdenlive
+exit
+ls
+cd Developer
+poetry new manim_test/
+cd manim_test/
+poetry add manim
+vim pyproject.toml
+poetry add manim
+vim pyproject.toml
+poetry add manimgl
+vim pyproject.toml
+poetry add manimgl
+sudo pacman -S ffmpeg
+ffmpeg -v
+ffmpeg
+opengl
+sudo pacman -S opengl
+cd ..
+rm -rf manim_test
+cd chromahacker/chromahacker_frontend/
+cd Developer/chromahacker/backend/
+ls
+mv Downloads/frame_000_delay-0.02s.png Developer/chromahacker/backend/file.png
+poetry run chromahackerweb/
+npm run dev
+cd Downloads
+gimp bassel.png
+exit
+update
+sudo pacman -Syy
+exit
+cd .config
+cd qutebrowser/
+ls
+cd ~/.local
+cd share
+ls
+cd qutebrowser/ls
+cd qutebrowser/
+ls
+cd qutebrowser/
+cd QtWebEngine/
+ls
+cd Default/
+ls
+vim user_prefs.json
+qt6-webengine
+qutebrowser --temp-basedir --version --debug-flag avoid-chromium-init
+sudo pacman -Rs python-pyqt6-webengine
+exit
+cd .conifg
+cd .config
+ls
+vim .gitignore
+git
+ls
+echo "!qutebrowser/" >> .gitignore
+echo "!qutebrowser/" | .gitignore
+ls
+ls -a
+echo "!qutebrowser/" | save .gitignore
+echo "!qutebrowser/" | save --append .gitignore
+cat .gitignore
+cd .config
+clear
+ls
+ls | filter-by file
+echo "!Logseq/" | save --append .gitignore
+echo "!BetterDiscord/" | save --append .gitignore
+echo "!alacritty/" | save --append .gitignore
+echo "!godot/" | save --append .gitignore
+echo "!neofetch/" | save --append .gitignore
+echo "!nushell/" | save --append .gitignore
+echo "!nvim/" | save --append .gitignore
+echo "!ranger/" | save --append .gitignore
+echo "!spicetify/" | save --append .gitignore
+cd spotify
+ls
+cd ..
+git rm --cached .
+git rm --cached -r .
+ls
+git add .
+git commit -m "update"
+git push
+vim .gitignore
+git push
+git add .
+git commit -m "update"
+git add .
+git commit -m "update"
+git ls
+git git ls-files
+git git ls-files -c
+git ls-files -c
+git ls-files
+vim.gitignore
+vim .gitignore
+git add .
+git ls-files
+git ls-files | open
+open <(git ls-files)>
+vim .gitignore
+git rm -cr .
+git rm --cached -r .
+git rm --cached -rf .
+git add .
+git ls-files
+vim.gitignore
+vim .gitignore
+git add .
+git ls-files
+vim .gitignore
+git rm --cached -r .
+git add .
+git rm -rf .
+ls
+git ls-files
+git ls-files .
+git rm -rf .
+git add .
+git ls-files
+vim .gitignore
+git ls-files
+git add .
+git ls-files
+vim .gitignore
+git ls-files
+git add .
+git ls-files
+vim .gitignore

@@ -2,6 +2,7 @@ window:
   padding:
     x: 16
     y: 16
+  opacity: 0.8
 colors:
   primary:
     background: '0x1a1b26'
@@ -31,5 +32,3 @@ font:
   size: 6.0
 shell:
   program: /usr/bin/nu
-window:
-  opacity: 0.8

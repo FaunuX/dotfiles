@@ -1401,3 +1401,1630 @@ ls
 tree
 vim .gitignore
 git commit -m "update"
+git add .
+git commit -m "update"
+git push
+cd ~
+sudo pacman -S virtualbox
+cd Developer/chromahacker/backend/
+exit
+exit
+cd ~/Developer/chromahacker
+mkdir video/
+cd video
+cd ..
+poetry new video
+cd video
+cd vidoe
+cd video
+ls
+vim __main__.py
+rm -rf __i
+rm __init__.pyt
+rm __init__.py
+cd ..
+poetry run video/
+poetry run python3 video/
+poetry add matplotlib
+poetry add numpy
+vim pyproject.toml
+poetry add numpy
+poetry run python3 video/
+vim video/_
+vim video/__main__.py
+poetry run python3 video/
+ps
+sudo kill 53102
+exit
+poetry run chromahackerweb/
+exit
+cd Developer/
+cd chromahacker
+ls
+cd video
+poetry run python3 video/
+vim video/__main__.py
+poetry run python3 video/
+poetry add PyQT5
+poetry add PyQT6
+poetry run python3 video/
+vim video/__main__.py
+poetry run python3 video/
+vim video/__main__.py
+poetry run python3 video/
+vim video/__main__.py
+poetry run python3 video/
+vim video/__main__.py
+poetry run python3 video/
+vim video/__main__.py
+poetry run python3 video/
+vim video/__main__.py
+poetry run python3 video/
+vim video/__main__.py
+poetry run python3 video/
+neovide video/__main__.py
+cd video
+poetry run python3 video/
+exit
+cd video
+poetry run python3 video/
+poetry add seaborn
+poetry run python3 video/
+poetry add chromahacker
+poetry run python3 video/
+mv ../image_lib/id_clut.png id_clut.png
+mv ../image_lib/colorschemes.json colorschemes.json
+mv ../image_lib/id_clut.png id_clut.png
+cp colorschemes.json ../image_lib/colorschemes.json
+cp id_clut.png ../image_lib/id_clut.png
+poetry run python3 video/
+sudo pacman -S blender
+exitanim.save('continuousSineWave.mp4',  <\n>          writer = 'ffmpeg', fps = 30) 
+exit
+cd video
+poetry run python3 video/
+cd  video
+poetry run python3 video/
+cd  video
+poetry run python3 video/
+cd ..
+cd  video
+poetry run python3 video/
+cd  video
+cd ..
+cd  video
+cd ..
+poetry run python3 video/
+cd Developer
+ls
+cd chromahacker
+ls
+clear
+cd video
+ls
+cd BL_proxy/
+ls
+cd ..
+cd /temp/
+cd /tmp/
+ls
+mv 0001-0256.mp4 ~/Developer/chromahacker/video/make_spline_animation.mp4
+cd ~/Developer/chromahacker/video/make_spline_animation.mp4
+cd ~/Developer/chromahacker/video/
+ls
+mpv make_spline_animation.mp4
+cd ..
+cd Developer/
+ls
+cd chromahacker
+ls
+clear
+cd chromahacker_frontend/
+cd backend
+ls
+ranger
+ls
+clear
+cd backend
+ls
+open colorschemes.json
+cat colorschemes.json
+cd ..
+cd image_lib
+open colorschemes.json
+cat colorschemes.json
+exit
+nvim colorschemes.json
+:q
+exit
+nvim
+exit
+npm run dev
+poetry run chromahackerweb/
+exit
+exit
+neovim
+ranger
+exit
+nvim
+:q
+exit
+nvim
+tmux
+sudo pacman -S tmux
+clear
+ls
+clear
+ls
+dmseg -w
+dmesg -w
+sudo dmesg -w
+:q
+exit
+exit
+tmux
+exit
+clear
+exit
+cd Developer/chromahacker/
+cd backend
+cd Developer/chromahacker/
+cd chromahacker_frontend/
+nvim
+exit
+nvim
+exit
+npm run dev
+poetry run chromahackerweb/
+exit
+exit
+cd Developer/chromahacker/chromahacker_frontend/
+npm run dve
+cd Developer/chromahacker/
+cd backend
+cd video
+poetry run python3 video/
+cd video
+poetry run python3 video/
+cp apply_animation.mp4 ~/Pictures/apply_animation.mp4
+cd /
+cd tmp
+ls
+mpv 0001-0256.mp4
+mv 0001-0256.mp4 ~/Developer/chromahacker/video/apply_animation_ye.mp4
+exit
+clear
+ls
+cd Developer/chromahacker/
+ls
+cd video
+ls
+exit
+cd Downloads
+gimp qwe_download.png
+mv chromahacker_app_bg.png ~/Developer/chromahacker/chromahacker_frontend/
+cd ~/Developer/chromahacker/chromahacker_frontend/
+ld
+ls
+exit
+npm run dev
+git add .
+git commit -m "update"
+git push
+cd Developer/chromahacker/
+git add .
+git commit -m "update"
+git push
+cd backend
+cd Developer/chromahacker/
+ls
+cd video
+ls
+cd video
+ls
+cd ..
+ls
+cd ..
+cd video
+ls
+cd ..
+cd ~
+ls
+clear
+ls
+exit
+cd Developer
+tree
+cd Chromahacker
+tree
+ls
+cd ..
+ls
+mv Chromahacker/Video/Audio/ chromahacker/video/audio/
+cd chromahacker
+tree
+exit
+spicetify backup apply
+exit
+sudo pacman -Sy v4l2loopback-dkms<\n>
+sudo pacman -S obs-studio
+exit
+ls
+rm *.mkv
+ls
+mv *.mp4 ~/Developer/chromahacker/video/
+cd ~/Developer/chromahacker/video
+ls
+mpv `2023-10-28 15-12-50.mp4`
+rm -rf 2023*.mp4
+ls
+cd ~/
+mpv *.mp4
+mv *.mp4 ~/Developer/chromahacker/video/
+cd ~/Developer/chromahacker/video/
+mpv *.mp4
+exit
+exit
+cd Developer
+cd chromahacker
+ls
+cd video
+ffmpeg -i make_spline_animation.mp3 -r 1 frames/output%03d.png
+ls
+ffmpeg -i make_spline_animation.mp4 -r 1 frames/output%03d.png
+mkdir frames
+ffmpeg -i make_spline_animation.mp4 -r 1 frames/output%03d.png
+ls
+cd frames
+ls
+mpv output006.png
+ffmpeg -i make_spline_animation.mp4 frames/output%03d.png
+cd ..
+ffmpeg -i make_spline_animation.mp4 frames/output%03d.png
+cd frames
+ls
+mpv output256.png
+mpv output255.png
+mv output255.png ../last_frame.png
+exit
+ls
+cd /
+cd tmp
+ls
+cd ..
+ls
+cd ~/Developer/chromahacker/video/
+ls
+gimp flask.png
+gimp matplotlib.png
+cd /tmp
+ls
+mpv 0001-10800.mp4
+mpb 0001-8888.mp4
+mpv 0001-8888.mp4
+cd ~/Developer/chromahacker/video/audio/
+ls
+mpv Outro.mp3
+cd /
+cd tmp
+mv 0001-8888.mp4 ~/Developer/chromahacker/video/video.mp4
+exit
+cd /tmp/
+ls
+mpv 0001-8888.mp4
+mpv 0001-7500.mp4
+exit
+exit
+cd /tmp/
+ls
+mpv 0001-7500.mp4
+mv 0001-7500.mp4 ~/Developer/chromahacker/video/video.mp4
+mv -f 0001-7500.mp4 ~/Developer/chromahacker/video/video.mp4
+curl parrot.live
+exit
+ls
+cd Desktop
+ls
+rm *
+cd ..
+exit
+sudo pacman -Syy
+sudo pacman -S evopedia
+sudo pacman -S evopedia-git
+sudo pacman -Syy
+cd Developer
+git clone https://github.com/knosmos/wikipedia
+cd wikipedia
+ls
+python3 main.py
+sudo pacman -s python-keyboard
+sudo pacman -S python-keyboard
+cd ..
+rm -rf wikipedia
+poetry new wikipedia
+cd wikipedia
+git clone https://github.com/knosmos/wikipedia
+rm -rf wikipedia
+git clone https://github.com/knosmos/wikipedia
+poetry run python3 wikipedia
+mv wikipedia/main.py wikipedia/__main__.py
+poetry run python3 wikipedia
+poetry install keyboard
+poetry addkeyboard
+poetry add keyboard
+poetry run python3 wikipedia
+poetry add wikipedia
+vim pyproject.toml
+poetry add wikipedia
+poetry run python3 wikipedia
+sudo poetry run python3 wikipedia
+poetry install
+vim pyproject.toml
+mv wikipedia wikireader
+poetry run python3 wikipedia
+poetry run python3 wikireader
+sudo poetry run python3 wikireader
+sudo nu
+clear
+poetry run python3 wikireader
+poetry run sudo python3 wikireader
+ls
+cd wikireader
+vim main.py
+vim __main__.py
+cd ~/Documents/Notes/
+ls
+cd pages
+cd journals
+cd ..
+cd journals
+ls
+cat *
+exit
+cd Developer
+cd wikireader
+cd wikipedia
+poetry run sudo python3 wikireader
+exit
+sudo pacman -Syu
+exit
+ls
+clear
+ls
+clear
+cd Developer
+clear
+exit
+c /
+cd /
+exit
+sudo pacman -S steam
+exit
+sudo pacman -S betterdiscord-installer
+sudo pacman -Syu betterdiscord-installer
+sudo pacman -S betterdiscord
+exit
+ls
+cd /
+ls
+cd home
+ls
+ls -a
+cd judah
+ls
+cd Games
+ls
+cd ..
+ranger
+exit
+spicetify backup apply
+spicetify restore backup
+spicetify backup apply
+exit
+clear
+exit
+sudo pacman -S spwn
+sudo pacman -Syu spwn
+sudo pacman -S spwn-bin
+spwn
+spwn -v
+cd Developer
+ls
+cd spwn-0.0.8-x86_64-linux_arch.pkg/
+ls
+cd usr
+ls
+cd bin
+ls
+cd spwn-bin/
+ls
+spwn
+./spwn
+ls
+cd ~
+pacman -U spwn-0.0.8-x86_64-linux_arch.pkg.tar.zst
+sudo pacman -U spwn-0.0.8-x86_64-linux_arch.pkg.tar.zst
+cd Developer/
+ls
+sudo pacman -U spwn-0.0.8-x86_64-linux_arch.pkg.tar.zst
+yay -S spwn-bin<\n>
+sudo pacman -S spwn-bin
+ls
+cd spwn
+ls
+./spwn
+cd ..
+./spwn
+cd ..
+./spwn
+cd ..
+./spwn build file.spwn
+sudo ./spwn build file.spwn
+cargo install spwn
+cd ..
+sudo pacman -S cargo
+$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh<\n>
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh<\n>
+cargo
+cd .config/nushell/
+vim env.nu
+rust
+source "$Home/.cargo/env"
+source "$HOME/.cargo/env"
+cd ~
+source "$HOME/.cargo/env"
+ls
+ls-a
+ls -a
+source "~/.cargo/env"
+source ".cargo/env"
+cd Developer
+cd chromahacker
+ls
+cd backend
+poetry run chromahacker/
+cd Developer
+cd chromahacker/chromahacker_frontend/
+yay
+echo $DESKTOP
+neofetch
+paru
+paru spwn
+spwn
+cd Developer
+ls
+rm -rf spwn
+rm -rf spwn-0.0.8-x86_64-linux_arch.pkg/
+mkdir spwn-test/
+cd spwn-test
+ls
+touch test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn --level-name "Test"
+spwn build test.spwn --level-name "lvl"
+vim test.spwn
+spwn b test.spwn -n "lvl"
+sudo spwn b test.spwn -n "lvl"
+sudo spwn b ~/Developer/spwn-test/test.spwn -n "lvl"
+sudo spwn b ~/Developer/spwn-test/test.spwn
+sudo spwn b ~/Developer/spwn-test/test.spwn -n "lvl"
+spwn eval test.spwn 
+spwn build test.spwn -c
+ls
+spwn build test.spwn -c RUST_BACKTRACE=1
+spwn build test.spwn -c 
+vim test.spwn
+spwn build test.spwn -c 
+spwn build test.spwn -l
+vim test.spwn
+spwn build test.spwn -l
+cd ..
+which wpsn
+which spwn
+rm -rf /usr/bin/spwn
+sudo rm -rf /usr/bin/spwn
+spwn
+paru spwn
+spwn
+cd Developer
+cd test
+spwn build test.spwn -l
+spwn build test.spwn
+mv test.spwn test.c
+ls
+cd ..
+cd test.spwn
+cd spwn-test
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+spwn build test.spwn -c
+spwn build test.spwn
+exit
+poetry run chromahackerweb
+npm run dev
+exit
+cd ~
+clear
+paru betterdiscord-installer
+cd ~
+ls
+mpv `2023-11-07 21-08-27.mp4`
+ls
+mpv `2023-11-07 21-15-43.mp4`
+betterdiscord
+betterdiscord-installer
+rciy
+exit
+cd Developer
+ls
+cd Developer
+cd spwn-test
+ls
+exit
+curl parrot.lve
+curl parrot.live
+ls
+clear
+tree
+betterdiscord-installer
+clear
+cd .local
+ls
+cd bin
+ls
+cd ..
+cd share
+ls
+cd steam
+ls
+cd Steam
+ls
+cd ..
+ls
+cd Steam
+ls
+cd  userdata
+ls
+cd 1002432979/
+l
+ls
+cd ..
+cd steamapps/
+ls
+cd common
+ls
+cd `Geometry Dash/`
+ls
+git clone https://github.com/DiOnFire/gd-hackermode
+ls
+mv gd-hackermode/* *
+mv gd-hackermode/* ./
+ls
+cd gd-hackermode
+ls
+cd ..
+ls
+cd Geometry `Geometry Dash/`
+cd `Geometry Dash/`
+ls
+cd GDHM-mod/
+ls
+cd ..
+cd Resources
+ls
+cd ..
+ls
+ls -a
+cd tools
+ls
+cd ..
+cd Resources
+ls
+cp CCLocalLevels.dat ~/Documents/CCLocalLevels.dat
+mv ~/Documents/CCLocalLevels.dat CCLocalLevels.dat
+mv if ~/Documents/CCLocalLevels.dat CCLocalLevels.dat
+mv -f ~/Documents/CCLocalLevels.dat CCLocalLevels.dat
+ls
+cd ..
+cd common
+ls
+cd ~
+cd Documents
+ls
+cd ~/.local/share
+ls
+cd Steam
+ls
+cd common
+cd steamapps/
+cd common
+ls
+cd `Geometry Dash/`
+ls
+cd Resources
+ls
+exit
+exit
+betterdiscord-installer
+exit
+mv Documents/Recordings/*.webp Pictures/
+exit
+a
+g
+cd Downloads
+mv `MegaHack v5.4 SETUP.exe` megahacksetup.exe
+mv megahacksetup.exe megahack/megahacksetup.exe
+ls
+mv megahacksetup.exe MegaHackLinux/megahacksetup.exe
+cd megahacklinux
+cd MegaHackLinux
+ls
+cd ~/.local/share/Steam/steamapps/compatdata/322170/pfx
+ls
+cd ~/.steam/steam
+ls
+cd compatdata
+cd ~/.local/share/Steam/steamapps/compatdata/322170/pfx
+ls
+cat user.reg
+vim user.reg
+vim userdef.reg
+ls
+cd ~/Downloads/MegaHackLinux/
+mv megahacksetup.exe ~/.local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/megahack.exe
+mv StartMegaHack.bat ~/.local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/StartMegaHack.bat
+vim MegaHackLauncher.sh
+vim MegaHackSetup.sh
+./MegaHackSetup.sh
+vim MegaHackSetup.sh
+vim MegaHackLauncher.sh
+./MegaHackSetup.sh
+cd ~/.local/share/Steam/steamapps/common
+ls
+cd ~/Downloads/MegaHackLinux/
+vim MegaHackLauncher.sh
+vim MegaHackSetup.sh
+./MegaHackSetup.sh
+cd ~/.local/share/Steam/steamapps/common
+cd ..
+cd compatdata/ls
+cd compatdata/
+ls
+cd 322170/
+ls
+cd pfx
+cd drive_c/
+vim StartMegaHack.bat
+ls
+vim StartMegaHack.bat
+cd `Program Files/`
+ls
+cd ..
+cd `Program Files (x86)/`
+ls
+cd ..
+vim StartMegaHack.bat
+cd ~/Downloads/MegaHackLinux/
+ls
+./MegaHackLauncher.sh
+cd ~/.local/share/Steam/steamapps/common/
+ls
+cd `Proton - Experimental/`
+ls
+cd ..
+cd ~/Downloads/MegaHackLinux/
+./MegaHackLauncher.sh
+vim MegaHackSetup.sh
+vim MegaHackLauncher.sh
+./MegaHackSetup.sh
+./MegaHackLauncher.sh
+vim MegaHackLauncher.sh
+./MegaHackLauncher.sh
+cd Developer
+poetry new flow_fields/
+cd flow_fields
+clear
+exit
+cd flow_fields/
+git init
+git remote add origin https://github.com/FaunuX/Flow-Fields.git
+git add .
+git commit -m "initial commit"
+git push
+git push --set-upstream origin main
+git push --set-upstream origin master
+poetry add perlin-noise
+poetry run python3 flow_fields/__init__.py
+poetry add matplotlib
+poetry run python3 flow_fields/__init__.py
+poetry add pyqt6
+poetry run python3 flow_fields/__init__.py
+poetry add numpy
+poetry run python3 flow_fields/__init__.py
+ps
+ps | sort-by name
+sudo kill 2066
+poetry run python3 flow_fields/__init__.py
+cd ..
+cd flow_fields
+poetry run python3 flow_fields/__init__.py
+ls
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+sudo pacman -Syu discord
+discord
+sudo pacman -Syy
+sudo pacman -Syu
+sudo pacman -S discord
+sudo pacman -R discord
+sudo pacman -S discord
+sudo pacman -R discord
+sudo pacman -S discord
+discord
+sudo pacman -Syyuu
+sudo pacman -S discord
+sudo pacman -S discord
+exit
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+exit
+poetry run python3 flow_fields/__init__.py
+sudo pacman -Syu discord
+cd ~/.config/
+cd discord
+cd settings.json
+cd .config
+cd discord
+vim settings.json
+poetry run python3 flow_fields/__init__.py
+exit
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+cd `.local/share/Steam/steamapps/common/Geometry Dash/`
+ls
+cd Resources
+ls
+mv Clubstep.mp3 ~/Downloads/Clubstep.mp3
+mv ~/Documents/Recordings/electric_frontier.mp3 Clubstep.mp3 
+cp Clubstep.mp3 ~/Documents/Recordings/electric_frontier.mp3
+exit
+mpv anim.mp4
+ls
+cd ..
+ls
+mpv anim.mp4
+ls
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+cd `.local/share/Steam/steamapps/common/Geometry Dash/`
+cd resources
+cd Resources/
+mv BackOnTrack.mp3 ~/Downloads/
+mv ~/Downloads/Bullets.mp3 BackOnTrack.mp3
+exit
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+cat ../chromahacker/video/video/make_spline_animation_1.py
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+cp ~/Pictures/FaunuX.png img.png
+poetry run python3 flow_fields/image_to_field.py
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry add opencv
+poetry add opencv-python
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+cp ~/Pictures/wallpaper.png img.png
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+cp ~/Pictures/Screenshot_20231018_222004.png img.png
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+exit
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+poetry run python3 flow_fields/__init__.py
+mpv anim.mp4
+cd Developer
+git clone https://github.com/gdext/app
+ls
+cd app
+ls
+npm run dev
+nppm i
+npm i
+npm run dev
+sudo pacman -S taskwarrior
+paru taskwarrior
+taskwarrior
+taskwarrior-tui
+touch .taskrc
+taskwarrior-tui
+rm .taskrc
+paru -D taskwarrior-tui
+taskwarrior-tui
+paru -R taskwarrior-tui
+paru task
+task list
+touch .taskrc
+task list
+task add Purple Hibiscus Essay
+task list
+ls
+rm -rf *.mp4
+rm -rf `New Folder/`
+ls
+task list
+cat .taskrc
+task add World History Stuff
+spicetify backup apply
+spicetify update
+sudo spicetify update
+vim .config/spicetify/config-xpui.ini
+sudo spicetify update
+vim .config/spicetify/config-xpui.ini
+cd .config/spotify
+ls
+cd ..
+vim .config/spicetify/config-xpui.ini
+cd ..
+vim .config/spicetify/config-xpui.ini
+spicetify apply
+vim .config/spicetify/config-xpui.ini
+pwd
+vim .config/spicetify/config-xpui.ini
+spicetify apply
+cd .config/spicetify
+ls
+cd Extensions
+ls
+spicetify apply
+task list
+task add Run Berkeley Half Marathon
+task list
+task 3 done
+task list
+tasj kust
+task list
+exit
+task list
+task 1 done
+task list
+exit
+task list
+task add find project
+task list
+clear
+cd Developer
+ls
+cd spwn-test
+ls
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn --help
+spwn build --help
+spwn build -s help
+spwn build help
+spwn build --help
+spwn build -n help
+spwn build -n Graviton test.spwn
+vim test.spwn
+spwn build -n Graviton test.spwn
+vim test.spwn
+spwn build -n Graviton test.spwn
+vim test.spwn
+spwn build -n Graviton test.spwn
+ls
+cd /
+ls
+cd ls -a
+ls -a
+cd usr
+ls
+cd share
+ls
+cd ..
+nvim
+ls
+cd ~
+ls
+cd Videos
+ls
+cd ..
+cd Documents
+ls
+cd ..
+cd tmp
+ls
+cd /tmp/
+ls
+mkdir `New Folder`
+ls
+exit
+cd `.local/share/Steam/steamapps/common/Geometry Dash/`
+ls
+cd Resources/
+ls
+mv `Electroman Adventures.mp3` Electroman.mp3
+mv Electroman.mp3 ~/Documents/Electroman.mp3
+mv `Electroman Adventures.mp3` Electroman.mp3
+exit
+ls
+cd `New Folder/`
+ls
+pwd
+cd ..
+rm -rf `New Folder/`
+mkdir empty
+exit
+exit
+tauri
+cargo create-tauri-app
+cargo add create-tauri-app
+cargo install create-tauri-app
+cargo create-tauri-app
+cd chip
+npm i
+npm run tauri dev
+clear
+npm run tauri dev
+ls
+cd `.local/share/Steam/steamapps/common/Geometry Dash/`
+ls
+curl parrot.live
+clear
+curl parrot.live
+task list
+task 1 done
+task list
+task 1 done
+exit
+task add Elementary Punishment
+task add Signifigant Zeros - Pogil
+Task add Chapter 5 Notes
+task add Chapter 5 Notes
+task add Chapter 6 Notes
+task add Ions Pogil
+task add Mole of Starbursts
+task add Atomic Structure protons, neutrons, electrons - Atomic number & Mass number
+Task add electron configuration 1 & 2
+task add electron configuration 1 & 2
+task add Average Atomic Mass - Pogil
+task add Chapter 7 Notes
+task list
+task add Pre Revolution France
+task add Monteseqiue
+task add The French Revolution
+task list
+task add Spanish homework
+task add spanish final
+task --help
+task
+task -h
+task --help
+task news
+task list
+task 15 done
+task add Spanish Presentacion
+task add Math Homework Chapter 9
+task add English Purple Hibiscus Free Write
+task list
+notify-send
+task list | notify-send
+notify-send | task list
+notify-send ok
+notify-send task list
+task list
+task list | notify-send
+task list | string
+task list | tostring
+task list | table
+ls
+task list | table
+task list | table | notify-send
+ls | notify-send
+notify-send (ls)
+notify-send (ls | into_string)
+ls | into string
+ls | to nuon
+task list | to nuon
+task list | to nuon | into string
+task list | into string
+notify-send (task list | into string)
+task list
+task 2 done
+task 5 done
+task list
+task 15 done
+task list
+task 2 done
+task 3 done
+task 8 done
+task list
+clear
+task list
+task list | table
+ls
+ls -a
+vim .taskrc
+cd .task
+ls
+cat *.data
+cat pending.data
+cat backlog.data
+task list
+cd Developer
+rm -rf chip/
+cd ..
+task 7 done
+exit
+cd Developer
+ls
+cd wikipedia/
+ls
+poetry run python3 wikireader/
+sudo poetry run python3 wikireader/
+sudo poetry run sudo python3 wikireader/
+python3 wikireader
+cd wikireader
+ls
+poetry run python3 __main__.py
+poetry install
+poetry run sudo python3 __main__.py
+cd ..
+cargo create-tauri-app
+cd chipstep
+npm install
+npm run tauri dev
+npm i htmx.org
+npm i tauri-plugin-htmx
+ls
+vim index.html
+npm run tauri dev
+vim index.html
+ls
+cd src
+ls
+vim main.ts
+cargo run tauri dev
+cd ..
+npm run tauri dev
+ps
+which vim
+exit
+cd Developer
+cd chipstep
+ls
+clea
+clear
+ls
+vim index.html
+exit
+npm run tauri dev
+cd ..
+cargo create-tauri-app
+cd test_tauri
+ls
+cd src
+ls
+cat main,js
+cat main.js
+icd ..
+cd ..
+rm -rf test_tauri
+npm run tauri dev
+cd Developer
+cd spwn-test/
+ls
+vim test.spwn
+spwn build test.spwn
+vim test.spwn
+spwn build test.spwn
+exit
+cd /
+cd tmp
+ls
+mpv 0001-9999.mp4
+exit
+mv `.local/share/Steam/steamapps/common/Geometry Dash/Resources/Clutterfunk.mp3` Downloads/Clutterfunk.mp3
+mv `.local/share/Steam/steamapps/common/Geometry Dash/Resources/Clutterfunk.p3` `.local/share/Steam/steamapps/common/Geometry Dash/Resources/Clutterfunk.mp3`
+cd Downloads
+ls
+cd gtk-wave-cleaner-0.22-06/
+make install
+ls
+automake
+cd src
+aclocal && autoconf && automake --add-missing
+aclocal; autoconf; automake --add-missing
+./configure
+make
+make install
+sudo make install
+gwc
+cd ..
+ffmpeg -i `New World Symphony Adagio.mp3` `New World Symphony Adagio.wav`
+vim wav.py
+python3 wav.py
+vim wav.py
+python3 wav.py
+paru mhwaveedit
+mhwaveedit
+mpv `New World Symphony Adagio.wav`
+cd ..
+paru plaintext-daw
+paru python-plaintext-daw
+cd Download
+ls
+cd Downloads/
+ls
+mpv `New World Symphony Adagio Denoise.wav`
+ls
+mpv `Symphony no. 9 in Em, 'New World' - I. Adagio, Allegro molto.mp3`
+ffmpeg -i `Symphony no. 9 in Em, 'New World' - I. Adagio, Allegro molto.mp3` New_World_Symphony_Adagio.wav
+cd ~/Documents/
+cd Recordings/
+ls
+ffmpeg -i NewWorldIntro.mp3 NewWorldIntro.wav
+task list
+task 10 done
+task 8 done
+task 2 done
+task list
+exit
+cd ..
+cargo new lettre_test
+cd lettre_test
+exit
+cd `.local/share/Steam/steamapps/common/Geometry Dash/`
+ls
+rm -rf GDHM-mod/
+rm -rf GDHM_v31.14/
+ls
+rm MegaHack.exe
+ls
+mv GDHM_TASBOT_v32.92/* ./
+ls
+rm -rf GDHM_TASBOT_v32.92/
+ls
+./ GeometryDash.exe
+sudo ./GeometryDash.exe
+ls
+rm tBot.dll
+rm msacm32.dll
+rm RoastedMarshmellow.dll
+rm ToastedMarshmellow.dll
+ls -a
+rm .GDHM/
+rm -rf .GDHM/
+rm -rf .GDHM_Geometrize2GD.bat
+rm -rf .GDHM_uninstall.bat
+ls
+cd GDHM_TASBOT_v32.92/
+ls
+mv * ../*
+mv * ../
+cd ..
+ls
+flatpak
+paru bottles
+paru flatpak
+exit
+flatpak bottles
+flatpak --help
+flatpak install bottles
+flatpak install flatseal
+flatseal
+paru flatseal
+flatseal
+bottles
+bottles-cli
+bottles-cli info
+flatpak run --command=bottles-cli com.usebottles.bottles --help
+bottles-cli info
+flatpak run --command=bottles-cli com.usebottles.bottles add
+flatpak install flatseal
+paru bottle
+paru bottles
+bottles
+paru uninstall flatpak
+paru --help
+paru -R flatpak
+paru -R flatseal
+paru -R flatpak
+betterdiscord-installer 
+exit
+cd .local/share/Steam/steamapps/common/
+ls
+cd `Geometry Dash/`
+ls
+spicetify backup appl
+spicetify backup apply
+exit
+git clone https://github.com/enderprism/godot-dash
+exit
+cd Developer
+git clone https://github.com/matcool/gd-macro-converter
+ls
+cd gd-macro-converter/
+ls
+vim main.js
+vim new.js
+vim parser.js
+vim main.js
+cd ~/Downloads
+ls
+mv spectro.json `~/.local/share/Steam/steamapps/common/Geometry Dash/.tasbot/macro/`
+exit
+ls
+cd Downloads/
+ls
+vim poop_fart.mhr
+exit
+cd .local/share/Steam/steamapps/common/
+cd `Geometry Dash/`
+ls
+cd Resources/
+ls
+lsdir
+cd /
+nvim
+exit
+cd Downloads
+ls
+mv `Soulless 5 (Reimagined) by skyefin (Original).mp3` `~/.local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/Application Data/`
+cd `~/.local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/Application Data/`
+ls
+ls -a
+cd ..
+ls
+mv `Roaming/Soulless 5 (Reimagined) by skyefin (Original).mp3` Local/GeometryDash/1127101.mp3
+cd .local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/
+ls
+mv dark-moon-high-tide.mp3 `steamuser/Local Settings/Application Data/GeometryDash/508568.mp3`
+mv -f dark-moon-high-tide.mp3 `steamuser/Local Settings/Application Data/GeometryDash/508568.mp3`
+exit
+exit
+ps
+sudo pacman -Syy
+sudo pacman -Syyuu
+exit
+cd .config/nvim/
+ls
+cd lua
+ls
+settings.lua
+vim settings.lua
+ps
+sudo kill -h
+ps | sort-by name
+sudo kill 58287
+exit
+cd .config/nvim/
+ls
+cd lua
+ls
+vim settings.lua
+neovide
+cd ..
+cd alacritty
+cd ..
+cd alacritty
+ls
+rm alacritty.yml
+rm alacritty.toml
+ls
+alacritty -h
+alacritty migrate
+curl https://raw.githubusercontent.com/FaunuX/dotfiles/main/alacritty/alacritty.yml
+curl https://raw.githubusercontent.com/FaunuX/dotfiles/main/alacritty/alacritty.yml | alacritty.yml
+curl https://raw.githubusercontent.com/FaunuX/dotfiles/main/alacritty/alacritty.yml | table
+curl https://raw.githubusercontent.com/FaunuX/dotfiles/main/alacritty/alacritty.yml | table | save alacritty.toml
+curl https://raw.githubusercontent.com/FaunuX/dotfiles/main/alacritty/alacritty.yml | table | save alacritty.yml
+rm alacritty.toml
+ls
+alacritty migrate
+vim alacritty.yml
+alacritty migrate
+ls
+vim alacritty.toml
+cd ..
+cd nvim
+ls
+cd lua
+vim settings.lua
+ps
+ps | sort-by name
+sudo kill 18908
+sudo kill 58908
+ls
+vim settings.lau
+vim settings.lua
+neovide
+exit
+ls
+cd .config/qutebrowser
+ls
+cd ..
+cd .local/share/
+cd ~/.local/share/qutebrowser/
+ls
+rm *.sqlite*
+ls
+cd ~/.config/

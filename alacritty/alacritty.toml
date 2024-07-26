@@ -31,13 +31,10 @@ background = "0x1a1b26"
 foreground = "0xc0caf5"
 
 [font]
-size = 6.0
+size = 12.0
 
 [shell]
 program = "/usr/bin/nu"
-
-[window]
-opacity = 0.8
 
 [window.padding]
 x = 16

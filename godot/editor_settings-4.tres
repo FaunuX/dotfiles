@@ -147,3 +147,8 @@ text_editor/theme/highlighting/comment_markers/notice_color = Color(0.56, 0.67, 
 text_editor/theme/highlighting/comment_markers/critical_list = "ALERT,ATTENTION,CAUTION,CRITICAL,DANGER,SECURITY"
 text_editor/theme/highlighting/comment_markers/warning_list = "BUG,DEPRECATED,FIXME,HACK,TASK,TBD,TODO,WARNING"
 text_editor/theme/highlighting/comment_markers/notice_list = "INFO,NOTE,NOTICE,TEST,TESTING"
+metadata/script_setup_templates_dictionary = {
+"AudioStreamPlayer": "0NodeDefault",
+"Node": "0NodeDefault"
+}
+metadata/export_template_download_directory = "/home/judah/.cache/godot"

@@ -3028,3 +3028,1573 @@ ls
 rm *.sqlite*
 ls
 cd ~/.config/
+git add .
+git commit -m update
+git push
+cd ~/Developer
+exit
+lss
+ls
+mv *.mp4 Videos/
+ls
+rm -rf godot-dash
+cd Developer
+ls
+cd chromahacker
+ls
+git add .
+git commit -m "I guess there's uncommited changes? idk"
+git push
+poetry run ls
+cd chromahacker_frontend/
+cd ..
+cd backend/
+poetry run ls
+ls
+cd pyproject.toml
+vim pyproject.toml
+poetry lock
+poetry run ls
+ls
+cd ..
+mv chromahacker_frontend/
+mv chromahacker_frontend/ backend/
+ls
+cd backend
+ls
+cd chromahacker_frontend
+ls
+cd ..
+ls
+vim pyproject.toml
+poetry run chromahacker
+poetry install
+vim pyproject.toml
+poetry install
+poetry run chromahacker
+vim pyproject.toml
+cd chromahacker_frontend
+ls
+npm run build
+npm run dev
+ls
+npm i
+npm audit fix
+npm run build
+clear
+ls
+exit
+clear
+df
+df -h
+dmesg
+lsusb
+sudo dmesg
+exit
+cd `.local/share/Steam/steamapps/common/Geometry Dash/.tasbot/`
+ls
+cd macro
+ls
+vim spectroscopic.json
+open `spectroscopic layout.json`
+open `spectroscopic.json`
+open `spectroscopic.json` | to toml 
+vim ( open `spectroscopic.json` | to toml )
+open `spectroscopic.json` | to toml 
+open `graviton.json` | to toml 
+open `Graviton.json` | to toml 
+exit
+clear
+git clone https://github.com/movie-web/movie-web
+rm -rf movie-web/
+cd Developer
+git clone https://github.com/movie-web/movie-web
+pnpm
+paru pnpm
+cd movie-web/
+npm i -g pnpm
+sudo npm i -g pnpm
+pnpm install
+pnpm run dev
+exit
+cd Developer/chromahacker/
+ls
+cd backend
+poetry run chromahacker
+vim pyproject.toml
+cd chromahacker_frontend
+npm run build
+cd Developer/chromahacker/
+ls
+poetry run chromahacker
+vim pyproject.toml
+cd backend
+vim pyproject.toml
+poetry run chromahacker
+exit
+npm run dev
+exit
+cd Developer
+cargo new bevy_test/
+cd bevy_test
+ls
+cargo add bevy
+ls
+exit
+cd Developer
+ls
+cd movie-web/
+ls
+npm run dev
+exit
+ls
+cd Developer
+ls
+cd bevy_test
+ls
+cat Cargo.toml
+cargo run
+cd ~/.config
+ls
+cd nvim
+ls
+sudo pacman -S rust-analyzer
+paru rust-analyzer
+paru pyright
+cd ~/Developer/nvim
+cd ~/Developer/bevy_test/
+ls
+cd src
+exit
+cargo run
+cd .
+cd ..
+cd chromahacker/
+ls
+cd backend/
+ls
+cd chromahacker_frontend/
+ls
+rm -rf node_modules/
+npm i
+npm run build
+npm run dev
+npm run build
+exit
+cd ~/.local/share/Steam/steamapps/common/
+cd `Geometry Dash/`
+ls
+cd ..
+ls
+mv 478283.mp3 compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+exit
+paru vantage
+cd Developer
+ls
+git clone https://github.com/niizam/vantage.git<\n>
+cd vantage/
+sudo make install
+ls
+mpv `2024-01-13 13-06-44.mp4`
+betterd
+betterdiscord-installer 
+exit
+cargo run
+cd Developer
+git clone https://github.com/Milk-Cool/Bot22
+ls
+cd Bot22/
+ls
+python3 -m pip install -r requirements.txt
+ls
+python3 main.py
+cat requirements.txt
+paru Pymem
+paru pynput
+paru Pymem
+sudo pacman -S python-pymem
+sudo pacman -S python-Pymem
+exit
+paru keyfinder
+exit
+ls
+cd .local/share/Steam/steamapps/common/
+ls
+cd `Geometry Dash/`
+ls
+cd Resources/
+ls
+sexit
+exit
+cargo run
+ls
+cd .local/share/Steam/steamapps/common/
+ls
+cd `Geometry Dash/`
+ls
+cd Resources/
+ls
+cd songs
+ls
+ls -a
+cd ..
+cd levels
+ls
+vim 22.txt
+cd ..
+ls
+cd songs
+ls
+mpv 10000104.ogg
+mpv 10000748.ogg
+mpv 10002875.ogg
+ls
+cd ..
+ld
+ls
+cp Dash ~/Documents/
+cp Dash.mp3 ~/Documents/
+exit
+cd Developer
+ls
+git clone https://github.com/aseprite/aseprite/
+ls
+cd Aestprite
+cd aesprite
+cd aseprite
+ls
+clear
+vim INSTALL.md
+cmake
+ninja
+sudo pacman -S gcc clang libc++ cmake ninja libx11 libxcursor mesa-libgl fontconfig
+mkdir build
+cd build
+export CC=clang
+Usage: export
+export -h
+zsh
+bash
+exit
+cargo run
+ls
+clear
+ls
+cd ..
+cd ~
+ls
+cd Downloads
+ls
+ls | filter-by folder
+ls | filter
+ls | filter-by directory
+ls | filter-by file
+ls | filter file
+ls
+cd ..
+ls
+cd Documents_old/
+ls
+cd ..
+cd Downloads
+ls
+ls *.zip
+Developer-20240129T215227Z-003.zip
+./Developer-20240129T215227Z-003.zip
+sudo ./Developer-20240129T215227Z-003.zip
+ranger
+cd ~/Developer
+ls
+mv Developer/* ./
+ls
+cd Develope
+cd Developer
+ls
+cd ..
+sudo rmdir Developer
+ls
+cd Developer
+ls
+cd Granola
+ls
+cd ..
+cd avalon
+ls
+cd Aetherpunk
+ls
+cd ..
+rm -rf Aetherpunk/
+rm -rf GMTK/
+paru spacedrive
+sudo pacman -Syy
+paru spacedrive
+sudo pacman -Syyuuyuuwu
+paru -h
+paru -U
+ls
+cd ..
+cd Developer
+ls
+cd Takeout
+ls
+cd Drive
+ls
+cd Developer
+ls
+cd granola
+ls
+cd Granola
+l
+ls
+cd src
+ls
+vim http.rs
+cd ..
+mv * ~/Developer/
+cd ~/Developer
+ls
+cd stormreld
+ls
+cd stormreld
+ls
+cd content/
+ls
+cd organizations
+ls
+vim stormragon-confederacy.md
+cd ..
+ls
+exit
+cargo run
+cargo add bevy_enum_filter
+cargo run
+exit
+cargo run
+tar -h
+tar --help
+exit
+cd Developer
+git clone https://github.com/titaniumnetwork-dev/Holy-Unblocker.git
+cd Holy-Unblocker/
+ls
+npm i
+npm run start
+cd ..
+rm -rf Holy-Unblocker/
+git clone https://github.com/nfriedly/nodeunblocker.com
+cd nodeunblocker.com/
+npm i
+npm start
+cd ..
+ls
+mkdir NotNebula
+rmdir NotNebula/
+cd NotNebula-8/
+ls
+npm i
+npm run start
+cd ..
+paru krita
+exit
+cargo run
+cd Developer
+git clone https://aur.archlinux.org/trizen.git<\n>
+cd trizen
+makepkg -sri
+trizen -S aseprite-git
+exit
+betterdiscord-installer 
+exit
+paru hqx
+hqx --help
+hqx -h
+cd Documents
+ls
+cd `Pixel Art/`
+ls
+mv ../First_Aseprite_Sprite.png First_Aseprite_Sprite.png
+hqx -s 4 First_Aseprite_Sprite.png Test.png
+mpv test.png
+mpv Test.png
+vim test.png
+gimp Test.png
+rm Test.png
+cd ~/Pictures/
+ls
+cd ..
+cd Downloads
+ls
+cd ..
+cd Pictures
+ls
+hqx `New Piskel-1.png (4)-1.png.png` Test.png
+mpv test.png
+mpv Test.png
+hqx -s 4 `New Piskel-1.png (4)-1.png.png` Test.png
+mpv Test.png
+hqx
+hqx -s 4 `New Piskel-1.png (4)-1.png.png` Testt.png
+mpv Testt.png
+gimp Testt.png
+hqx -s 4 `New Piskel-1.png (2).png` Test.png
+mpv Test.png
+gimp Testt.png
+gimp Test.png
+hqx -s 4 Samus.png Test.png
+gimp Test.png
+hqx -s 4 Samus.png Test.png
+gimp Test.png
+cd `~/Documents/Pixel Art/`
+ls
+hqx -s 2 First_Aseprite_Sprite.png Test.png
+gimp Test.png
+hqx -s 2 First_Aseprite_Sprite.png Test.png
+gimp test.png
+gimp Test.png
+hqx -s 4 First_Aseprite_Sprite.png Test.png
+gimp Test.png
+exit
+ls
+exit
+pipx install depixelizer
+pipx -h
+pipx list
+paru depixelizer
+sudo pacman -S python-depizelizer
+pip install depixelizer
+pipx install depixelizer
+cd Developer
+ls
+poetry new depixelizer
+rm -rf depixelizer/
+poetry new depixelizer_test/
+cd depixelizer_test/
+poetry add depixelizer
+cd ..
+rm -rf depixelizer_test/
+git clone https://github.com/vvanirudh/Pixel-Art
+cd Pixel-Art/
+ls
+python3 setup.py
+pip install
+cd ~/Pictures
+gimp Test.png
+exit
+cd `Documents/Pixel Art/`
+hqx -s 4 Tree.png Test.png
+gimp Test.png
+exit
+cargo run
+task list
+task clear
+task -h
+task --help
+task 1 done
+task 2 done
+task 3 done
+task 4 done
+dask 5 done
+task 5 done
+task 6 done
+dask 7 done
+task 7 done
+task add Writing Lewis Structures
+task add Namin Ionic Compounds - Pogil
+Task add Ch9 notes
+task add Ch9 notes
+task add Precipitate Lab part 2
+task add Precipitate Lab Part 3
+task add Precipidate Lab Part 4
+task add Naming Ionic Compounds - Single Sided
+task add Ch10 Notes
+task add Ch12 Notes
+task add Naming Molecular Compounds - POGIL
+task add Naming Acids - Pogil
+task add Spanish Presentation
+task list
+task lsit
+task list
+task add Ch11 Notes
+exit
+cd ..
+cargo run
+cd ..
+cargo run
+j
+cargo run
+exit
+cd ..
+cargo run
+cd bevy_test/
+cargo run
+cd .local/share/Steam
+ls
+cd steamapps
+cd common/
+ls
+cd `Geometry Dash/`
+ls
+cd ..
+ls
+cd steamui
+ls
+cd ,,
+cd ..
+ls
+cd userdata
+ls
+cd 1002432979/
+ls
+cd 105600/
+ls
+cd remote
+ls
+cd ..
+ls
+cd 1002432979/1281930/
+ls
+cd local
+ls
+cd ~/.local/share/Steam/
+ls
+cd ~/.steam/
+ls
+cd steam
+ls
+cd steamapps
+ls
+cd compatdata/
+cd 322170/
+ls
+cd pfx
+ls
+cd drive-c
+cd drive_c
+cd users/
+ls
+cd steamuser
+ls
+cd AppData/
+ls
+cd Local/
+ls
+cd GeometryDash/
+ls
+cd ..
+cp GeometryDash/* ~/Documents/GeometryDash/
+mkdir ~/Documents/GeometryDash/
+cp GeometryDash/* ~/Documents/GeometryDash/
+cd `~/.local/share/Steam/steamapps/common/`
+ls
+rm -rf `Geometry Dash/`
+exit
+cd .local/share/Steam/steamapps/common/
+ls
+mkdir Geometry Dash/
+ls
+rm -rf Geometry
+rm -rf Dash
+mkdir `Geometry Dash`
+ls
+exit
+mv Documents/GeometryDash/ .steam/steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/
+mv -f Documents/GeometryDash/ .steam/steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash
+mv -f Documents/GeometryDash/ .local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+mkdir .local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+mv -f Documents/GeometryDash/ .local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+cd .local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+cp -f ~/.steam/steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+cp -f ~/.steam/steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/ ./GeometryDash/
+ls
+cd ..
+ls
+cp -rf ~/.steam/steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/ ./GeometryDash/
+ls
+cd GeometryDash/
+ls
+cd GeometryDash/
+ls
+cd ..
+cd ~/.steam/steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+ls
+cp -f GeometryDash/ ~/Documents/GeometryDash/
+mkdir ~/Documents/GeometryDash/
+cp -f GeometryDash/ ~/Documents/GeometryDash/
+cp -rf GeometryDash/ ~/Documents/GeometryDash/
+cd ~/Documents/GeometryDash
+ls
+cd GeometryDash/
+ls
+vim CCLocalLevels.dat
+exit
+mv -rf ~/Documents/GeometryDash/ ~/.local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+cp -rf ~/Documents/GeometryDash/ ~/.local/share/Steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/
+exit
+paru gtrash
+exit
+task list
+task 1 done
+task list
+task 3 done
+task 4 done
+task 5 done
+task 6 done
+task list
+exit
+cd `.local/share/Steam/steamapps/common/Geometry Dash/Resources/`
+cp game_bg_09_001.png backup.png
+exit
+cd `.local/share/Steam/steamapps/common/Geometry Dash/Resources/songs/`
+ls
+mv -f Polargeist.mp3 ../Polargeist.mp3
+exit
+paru anki
+sudo pacman -S anki
+sudo pacman -Syu
+paru anki
+paru disneyplus
+betterdiscord-installer
+exit
+spicetify backup apply
+exit
+cd Developer/
+ls
+cd chromahacker/
+ls
+cd backend
+poetry run chromahacker
+vim poetry.lock
+vim pyproject.toml
+cd Developer/chromahacker/
+ls
+cd chromahacker/
+ls
+npm run star
+npm run start
+npm run dev
+ls
+cd ..
+ls
+cd chromahacker
+ls
+cd chromahacker
+ls
+cd ..
+cd backend
+ls
+cd chromahacker_frontend
+ls
+poetry run chromahacker
+cd ..
+cd chromahacker/
+ls
+poetry run chromahacker
+poetry install
+poetry run chromahacker
+ls
+cd data
+ls
+cd ..
+cp ../backend/colorschemes.json data/
+poetry run chromahacker
+cd ..
+cd backend
+ls
+npm run dev
+poetry run chromahacker
+exit
+exit
+exit
+cd ../chromahacker/backend/chromahacker_frontend/node_modules/
+cd ..
+npm run build
+npm run dev
+npm run build
+ls
+cd dist
+ls
+cd ..
+vim index.html
+cd dist; npx http-server
+cd assets
+ls
+cd ..
+ls
+npx http-server
+ls
+npx http-server
+npm run build
+ls
+cd dist
+npx http-server
+cp ../chromahacker_app_bg.png ./
+ls
+cp ../chromahacker_app_bg.png ./
+ls
+npx http-server
+ls
+cd ..
+ls
+cd public
+ls
+cd ..
+cp chromahacker_app_bg.png public/
+npm run build
+cd dist
+ls
+npx http-server
+cd ..
+cd src
+ls
+cd App.txs
+cd App.tsx
+npm run build
+cd ..
+cd dist
+ls
+npx http-server
+git push
+ls 
+cd Developer/chromahacker
+git push
+exit
+ffmpeg -i input.mp4 -vf "setpts=0.5*PTS" -r 60 output.mp4
+ffmpeg -i `2024-02-25 10-42-38.mp4` -vf "setpts=0.5*PTS" -r 60 Videos/FaunuX.mp4
+mpv Videos/FaunuX.mp4
+exit
+exir
+exit
+ls
+cd .kodi/
+ls
+cd userdata/
+ls
+open profiles.xml
+ls
+cd library
+ls
+cd ..
+tree
+vim guisettings.xml
+vim playercorefactory.xml
+exit
+ls
+cd Documents
+ls
+cd pages
+ls
+cd ..
+cd logseq
+ls
+cd bak
+ls
+cd Notes
+ls
+cd logseq
+ls
+cd custom
+ls
+cd ..
+ls
+mv `Packing Squares.png` ~/Pictures/
+mv *.png ~/Pictures/
+mv *.xcf ~/Pictures/
+vim `Untitled 1.ods`
+rm -rf `Untitled 1.ods`
+ls
+mkdir Sheets/
+mv *.ods Sheets/
+ls
+rm -rf *.mp3
+rm -rf college_stuff.txt
+ls
+mkdir Español/
+ls
+cd Español/
+ls
+mkdir Text
+mkdir Videos
+mv Text/ Texto/
+ls
+paru youtube-dlp
+paru yt-dlp
+yt-dlp -h
+yt-dlp -I 
+yt-dlp https://www.youtube.com/watch?v=7aU5zBpenfE
+ls
+mv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm` Videos/
+mv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`j
+ls
+mv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm` Videos/
+mv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+mv *.webm Videos/<\n>.
+sudo mv *.webm Videos/
+ls
+cd Videos
+ls
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+$ sudo pacman -Syu mpv anki curl xclip --needed
+sudo pacman -Syu mpv anki curl xclip --needed
+paru mpv-mpvacious
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+rm `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+rm *
+yt-dlp --write-subs https://www.youtube.com/watch?v=7aU5zBpenfE
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+cd ~/.config
+ls
+yt-dlp --config-location
+yt-dlp --config-location .
+cd ..
+ls
+ls -a
+yt-dlp -h
+yt-dlp --config-locations ~/.config/yt-dlp/
+mkdir ~/.config/yt-dlp/
+yt-dlp --config-locations ~/.config/yt-dlp/
+cd ~/.config/yt-dlp
+mkdir yt-dlp.conf
+yt-dlp --config-locations ~/.config/yt-dlp/
+ls
+cd yt-dlp.conf
+ls
+cd ..
+touch yt-dlp.conf
+rm -rf yt-dlp.conf/
+touch yt-dlp.conf
+yt-dlp --config-locations ~/.config/yt-dlp/
+yt-dlp --help
+exit
+ls
+cd ~/Documents/Español/
+ls
+cd Videos
+ls
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+cd ~/.config/mpv/
+ls
+mkdir script-opts/
+cd script-opts/
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+exit
+cd Documents/Español/Videos/
+vim subs2srs.conf
+cd ..
+ls
+vim mpv.conf
+cd script-opts/
+ls
+vim mpv.conf
+ls
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+vim subs2srs.conf
+paru goldendict
+goldendict
+ls
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+exit
+vim subs2srs.conf
+cd ~/.config/qutebrowser/
+ls
+cd ~/.config/mpv
+ls
+cd script-opts/
+ls
+vim subs2srs.conf
+:wq
+exit
+exit
+spicetify backup apply
+exit
+cd Documents/Español/Videos/
+yt-dlp --write-subs https://www.youtube.com/watch?v=TFhRXnE2xck&list=PLSDEdEqaA8X8rvrnxTKP_r0PeuMmMgtFd&index=18
+ls
+ls *.vtt
+mpv `Estrellas de neutrones： los astros más extremos que no son agujeros negros [fD69KtLjjfQ].webm`
+exit
+cd ..
+git clone https://github.com/FaunuX/Granola Granola_Old/
+cd Granola_Old/
+ffmpg -h
+ffmpeg -h
+cd Downloads
+mpv `The Simpsons Movie (2007) [1080p] [BluRay] [YTS.MX].torrent`
+cd ~/Documents/Español/
+ls
+cd Videos
+ls
+mpv `Agujeros de gusano o cómo romper el espaciotiempo [duIDvO_QGBY].webm`
+cd Documents/Español/
+ls
+cd Videos
+ls
+mpv `Cómo construir una base lunar HOY [rF7llfSvEmY].webm`
+exit
+paru torrent
+torrential
+exit
+exit
+yt-dlp https://www.youtube.com/watch?v=gk2_HPvFcX8
+ls
+mv `As Bicicletas de Belleville [gk2_HPvFcX8].mp4` Videos/
+ls
+mpv `As Bicicletas de Belleville [gk2_HPvFcX8].mp4`
+exit
+paru app
+cd Videos
+mpv
+cd ..
+mpv `As Bicicletas de Belleville [gk2_HPvFcX8].mp4`
+exit
+ls
+cd Videos
+ls
+cd ..
+mpv `As Bicicletas de Belleville [gk2_HPvFcX8].mp4`
+yt-dlp https://www.youtube.com/watch?v=yDJpxkypOyw
+ls
+mv `Hard Truth about Twitter Garbage accusations from haters. What They dont want you to know. Everythin [yDJpxkypOyw].mkv` Videos/
+ls
+mv `Hard Truth about Twitter Garbage accusations from haters. What They dont want you to know. Everythin [yDJpxkypOyw].mkv` 
+mv `Hard Truth about Twitter Garbage accusations from haters. What They dont want you to know. Everythin [yDJpxkypOyw].mkv` Videos/*
+exit
+exit
+cd Downloads
+ffmpeg -i demonic-woman-scream-6333.mp3 -acodec pcm_s16le -ac 1 -ar 16000 scream.wav
+mpv scream.wav
+exit
+cd Developer
+git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git<\n><\n>
+cd stable-diffusion-webui/
+./webui.bat
+sudo webui.bat
+sudo ./webui.bat
+ls
+exit
+cd Developer
+exit
+sudo pacman -S luppp
+exit
+cd Developer
+git clone https://github.com/ip36/Microjam
+cd MicroJam
+ls
+cd Microjam/
+ls
+exit
+cd Documents/Español/
+ls
+cd Videos
+ls
+mpv `¿Qué pasa si nos caemos en un agujero negro？ [TFhRXnE2xck].webm`
+exit
+cd .config
+ls
+cd mpv/
+ls
+cd script-opts/
+ls
+cd ..
+cd ~/Downloads
+git clone https://github.com/oltodosel/interSubs
+cd interSubs/
+ls
+mv interSubs.py interSubs.lua interSubs_config.py ~/.con/fig/mpv/scripts
+mv interSubs.py ~/.con/fig/mpv/scripts
+mv interSubs.py ~/.config/mpv/scripts
+mv interSubs.lua ~/.config/mpv/scripts
+mv interSubs.lua ~/.config/mpv/scripts/
+mv interSubs.lua ~/.config/mpv/scripts/interSubs.lua
+mv interSubs.lua ~/.config/mpv/scripts/
+ls
+mv interSubs.lua ~/.config/mpv/scripts/interSubs.lua
+mv interSubs.lua ~/.config/mpv/scripts/
+exit
+cd .config/mpv/scripts
+ls
+vim interSubs.lua
+vim interSubs_config.py
+vim interSubs.lua
+cd ~/Documents/Español/
+ls
+cd Videos
+mpv `Descomposición del vacío [8i8t6U6ZVAk].webm`
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+cd ~/.config/mpv
+ls
+cd script-opts
+ls
+vim subs2srs.conf
+ls
+vim subs2srs.conf
+cd ~/Documents/Español/
+cd videos
+cd Videos
+ls
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+ls
+cd .config/mpv/scripts
+ls
+vim interSubs.lua
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+vim interSubs.lua
+vim interSubs_config.py
+paru python-httpx
+sudo pacman -S python-httpx
+pipx install httpx
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+httpx -h
+pip install httpx
+exit
+sudo pacman -Syu
+sudo pacman -S python-httpx
+mpv `Los VERDADEROS límites de la humanidad： la frontera final que jamás cruzaremos [7aU5zBpenfE].webm`
+exit
+cd Document
+cd Documents/Espa
+cd Documents/Espanol/
+cd Documents
+cd Español/
+cd Videos
+mpv 'Estrellas de neutrones： los astros más extremos que no son agujeros negros [fD69KtLjjfQ].webm'
+cd ~/.config/mpv/scripts
+ls
+python2 interSubs.py
+python3 interSubs.py
+vim interSubs.lua
+exit
+betterdiscord-installer
+exit
+א
+cd .config/alacritty
+ls
+cd alacritty.toml
+neovide alacritty.toml
+exit
+א
+poetry new kTav_prototype/
+cd kTav_prototype/
+ls
+poetry add textual
+poetry run python3 -m textual
+cd ktav_prototype/
+ls
+cd ..
+git remote add origin https://github.com/FaunuX/ktav.git
+git init
+git remote add origin https://github.com/FaunuX/ktav.git
+git branch -M main
+git push -u origin main
+git commit -m "initial commit"
+git add .
+git commit -m "initial commit"
+git push -u origin main
+cd Developer/kTav_prototype/
+git push -u origin main
+exit
+cd Developer/ktav_prototype/
+vim ktav_prototype/__main__.py
+exit
+poetry run python3 ktav_prototype/
+poetry add textual
+poetry run python3 -m textual
+ls
+cd ktav_prototype/
+poetry run python3 __main__.py
+exit
+cd .config/mpv/
+ls
+cd script-opts
+ls
+cd ..
+cd scripts
+ls
+cd Documents/Español/Videos/
+ls
+mpv '¿Detonamos una bomba nuclear en la Luna？ [-Q5HjPa8iqk].webm'
+sudo pacman -S python-httpx python-lxml python-requests python-beautifulsoup4 python-numpy python-pyqt5 xcompmgr
+xcompmgr -c
+cd ..
+rm -rf scripts/
+ls
+cd script-opts
+vim subs2srs.conf
+sudo pacman -S python-httpx python-lxml python-requests python-beautifulsoup4 python-numpy python-pyqt5 xcompmgr
+mpv '¿Detonamos una bomba nuclear en la Luna？ [-Q5HjPa8iqk].webm'
+exit
+exit
+cd Documents
+ls
+cd ..
+cd Videos
+ls
+yt-dlp -h
+yt-dlp -I https://www.youtube.com/playlist?list=PLB7ZcpBcwdC7gTO_IVdiBv8nVPLKbqNa4
+yt-dlp --yes-playlist https://www.youtube.com/playlist?list=PLB7ZcpBcwdC7gTO_IVdiBv8nVPLKbqNa4
+ls
+mkdir Jet Lag
+rm -rf Jet
+rm -rf Lag
+mkdir Jet_Lag/
+mv We 'We Played Hide And Seek Across Switzerland [E8UmTJVDnUI].f315.webm.part' Jet_Lag/
+mv 'We Played Hide And Seek Across Switzerland [E8UmTJVDnUI].f315.webm.part' Jet_Lag/
+cd Jet_Lag
+ls
+mpv 'We Played Hide And Seek Across Switzerland [E8UmTJVDnUI].f315.webm.part'
+exit
+paru miniflux
+paru fluent-reader
+sudo pacman -Syu
+paru miniflux
+miniflux
+miniflux -h
+miniflux
+miniflux -config-dump
+minflux
+miniflux
+paru raven
+raven
+raven-reader
+betterdiscord-installer
+exit
+yt-dlp -h
+yt-dlp --audio-only https://www.youtube.com/watch?v=z2QOf0pLSwQ&list=PLkMwkg-GyHwU0tl3G0jQgN5H0yQWI07Qv&index=4
+yt-dlp -x https://www.youtube.com/watch?v=z2QOf0pLSwQ&list=PLkMwkg-GyHwU0tl3G0jQgN5H0yQWI07Qv&index=4
+ls
+mv 'Tykwer, Klimek & Heil - Supermarkt [z2QOf0pLSwQ].opus' Music/
+cd Music
+ffmpg -h
+ffmpeg
+man ffmpeg
+ffmpeg -i 'Tykwer, Klimek & Heil - Supermarkt [z2QOf0pLSwQ].opus' -vn -ar 44100 -ac 2 -b:a 192k Supermarkt.mp3
+ls
+rm 'Tykwer, Klimek & Heil - Supermarkt [z2QOf0pLSwQ].opus'
+mpv Supermarkt.mp3
+sudo pacman -S pdftk
+sudo pacman -Syu
+paru pdftk
+pdftk -h
+cd Documents
+ls
+cd Documents
+ls
+pdftk Algebra2_Holt_compressed.pdf cat 951 output Test.pdf
+ls
+pdftk Algebra2_Holt_compressed.pdf cat 897 output Test_2.pdf
+cd Hermex
+lsl
+ls
+cd Hermex
+ls
+poetry run python3 main.py
+cd hermex
+ls
+poetry run python3 __init__.py
+poetry install
+poetry run python3 __init__.py
+exit
+paru acrobat
+cd Downloads
+ls
+cd HWJPEGS/
+ffmpeg -i *.jpg  -filter_complex hstack output.jpg
+ffmpeg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-0.jpg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-1.jpg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-2.jpg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-3.jpg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-4.jpg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-5.jpg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-6.jpg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-7.jpg -i c0a63bbb-4363-4139-aaf5-b6d2d17ddd1f-8.jpg  -filter_complex hstack output.jpg
+ls
+gimp output.jpg
+exit
+cd qutebrowser
+ls
+mv blocked-hosts qutebrowser/
+mv blocked-hosts qutebrowser/*
+ls
+mv blocked-hosts qutebrowser/blockd-hosts
+rm blocked-hosts
+cd qutebrowser/
+ls
+touch blocked-hosts
+vim blocked-hosts
+exit
+betterdiscord-installer
+exit
+ls
+cd ../..
+cd ..
+ls
+cd chromahacker
+ls
+cd backend
+ls
+cd ..
+ls
+cd machine_learning
+ls
+cd ..
+cd image_lib
+ls
+cd ..
+cd chromahacker
+ls
+vim oijoijoij
+ls
+cd chromahacker
+ls
+cd ..
+ls
+cd ..
+cd backend
+ls
+cd chromahackerweb
+ls
+cd ..
+cd chromahacker_frontend/
+sl
+ls
+cd dist
+ls
+cd Developer
+ls
+cd chromahacker
+ls
+cd chromahacker
+ls
+cd ..
+cd backend
+ls
+poetry run chromahackerweb
+poetry run python3 chromahackerweb/
+vim pyproject.toml
+poetry run python3 chromahackerweb/
+poetry install
+poetry lock
+poetry install
+poetry run python3 chromahackerweb/
+ls
+cd chromahackerweb
+ls
+poetry run __main__.py
+poetry run python3 __main__.py
+vim __main__.py
+cd ..
+vim pyproject.toml
+npx http-server
+ls
+cd ..
+ls
+open package.json
+poetry run chromahacker
+exit
+exit
+tree
+cd Developer
+git clone https://github.com/ip36/Minijam-2-electric-boogaloo
+cd Minijam-2-electric-boogaloo/
+ls
+git pull
+git commit -m "test"
+cd ..
+rm -rf Minijam-2-electric-boogaloo/
+git clone https://github.com/musescore/MuseScore
+git clone https://github.com/ip36/Minijam-2-electric-boogaloo
+git branch
+cd Minijam-2-electric-boogaloo/
+git branch
+git branch FaunuX
+ls
+git branch
+git checkout FaunuX
+git add .
+git commit -m "add level 4"
+git push
+git push --set-upstream origin FaunuX
+git pull origin main
+git branch main
+git checkout main
+git add .
+git commit -m "idk"
+git push
+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
+git push
+git checkout main
+git pull
+git checkout FaunuX
+git merge main
+git status
+git checkout main
+git merge
+git rm .godot/editor/1.tscn-editstate-22c1a4f8d2436f7e75560d068c516187.cfg
+git rm .godot/editor/2.tscn-editstate-d4052db5d0886cda66ffaef9b34d6d9f.cfg
+git rm .godot/editor/3.tscn-editstate-5d6b358c28639e4ce35ebd3e579809ec.cfg
+git rm .godot/editor/5.tscn-editstate-fb60ec054799658d38ebd4f61ca685a2.cfg
+git rm .godot/editor/7.tscn-editstate-13ac1eac73cddf2843e72767b3a8d3a5.cfg
+git rm .godot/editor/Controls.tscn-editstate-339521e85f3b30700727370469b826d5.cfg
+git status
+git checkout main
+git rm .godot/editor/Enemydeath.tscn-editstate-7fe2af2196132b3b356bfe1c2f84fab9.cfg
+git rm .godot/editor/Grapple.tscn-editstate-21d3f8e766f4837c8d42840e66216980.cfg
+git rm .godot/editor/Itemselectr.tscn-editstate-096eed1e10986008af062b0b8e5be2b7.cfg
+git rm .godot/editor/Levelselect.tscn-editstate-06ce9000deeebdeaa2120c02605bed6e.cfg
+git rm .godot/editor/Player.tscn-editstate-90e1ff3baa03524a506ff0f7a9d78dcf.cfg
+git checkout main
+git rm .godot/editor/Projectile.tscn-editstate-c73c9055c04d63c4fc1485315431f41e.cfg
+git rm .godot/editor/Spike.tscn-editstate-7659f651c46151615bda436261217d16.cfg
+git rm .godot/editor/Start.tscn-editstate-32f7a05784f14728eb5e2e40fb0fbaf5.cfg
+git rm .godot/editor/UI.tscn-editstate-c3b50503a0477dc727cd659891fdb3c7.cfg
+git rm .godot/editor/coin.tscn-editstate-2c627f0aeee2256356f1e6ba540049dd.cfg
+git checkout main
+git rm .godot/editor/create_recent.Node
+git rm .godot/editor/editor_layout.cfg
+.godot/editor/filesystem_cache8
+git rm .godot/editor/filesystem_cache8
+git rm .godot/editor/filesystem_update4
+git rm .godot/editor/project_metadata.cfg
+git rm .godot/editor/script_editor_cache.cfg
+git rm .godot/editor/verticalenemy.tscn-editstate-b0a3f1241429cef7c740fa267d569598.cfg
+git rm .godot/uid_cache.bin
+git commit -m "test"
+git push
+git pull
+git add .
+git commit -m "fix"
+git push --set-upstream origin main
+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ghp_40qXFCmhR
+git push --set-upstream origin main
+git push --set-upstream origin FaunuX
+git checkout main
+git pull
+git branch
+git checkout faunux
+git checkout FaunuX
+git merge main
+git add .
+git commit -m "bring to date"
+git push
+git revert
+git branch
+git checkout main
+git pull
+zip -r Minijam-2-electric-boogaloo/
+zip Minijam-2-electric-boogaloo/
+zip -h
+sudo pacman -S zip
+zip -r Minijam-2-electric-boogaloo/
+zip -h
+zip
+zip --help
+exit
+open fonts.conf
+ls
+open .fonts.conf
+cd ~/.fonts
+cd /usr/local/share/fonts/
+ls
+cd f
+ls
+exit
+cd Music
+ls
+yt-dlp -h
+yt-dlp -x https://www.youtube.com/watch?v=Wk0jJfQvLmU
+ls
+'Thomas D - Wish (Komm Zu Mir) feat. Franka Potente [Wk0jJfQvLmU].opus'
+cd Downloads
+ls
+cd ..
+ls
+cd Downloads
+ls
+mv `Wish (Komm Zu Mir).mp3` ~/Music/
+mv `Geometry Dash/` `~/.steam/root/steamapps/common/`
+mv -f `Geometry Dash/` `~/.steam/root/steamapps/common/`
+mv --force `Geometry Dash/` `~/.steam/root/steamapps/common/`
+mv -h
+rm -rf `Geometry Dash/` `~/.steam/root/steamapps/common/`
+rm -rf `~/.steam/root/steamapps/common/Geometry Dash/`
+ls
+betterdiscord-installer
+krunner
+exit
+sudo pacman -S mapchart
+exit
+betterdiscord-installer
+exit
+ffmpg -h
+ffpg --help
+ffmpg
+ffmpeg --helo
+ffmpeg --help
+cd Downloads
+ffmpeg mFacYlKJ_4AMIo4E.mp4 sick_edit.gif
+ffmpeg -i mFacYlKJ_4AMIo4E.mp4 sick_edit.gif
+spicetify backup apply
+exit
+neofetch
+exit
+clear
+shutdown
+sudo shutdown 
+echo | <yourfinecommandhere>
+exit
+cd Developer
+ls
+cd chromahacker/
+ls
+cd backend
+ls
+cd chromahacker_frontend/
+ls
+cd ..
+poetry run python3 chromahackerweb/
+vim poetry.lock
+vim pyproject.toml
+poetry update
+poetry run chromahacker
+poetry add tensoflow
+vim pyproject.toml
+poetry add tensoflow
+ls
+cd Developer/chromahacker
+ls
+cd chromahacke
+cd chromahacker
+ls
+poetry run chromahacker
+vim pyproject.toml
+poetry update
+poetry run chromahacker
+ls
+cd chromahacke
+cd chromahacker/
+ls
+vim __main__.py
+cd backend
+ls
+cd ..
+ls
+cd ..
+ls
+cd backend
+poetry run chromahacker
+poetry add tensorflow
+vim pyproject.toml
+poetry add tensorflow
+poetry run chromahacker
+cd backend/
+poetry run chromahacker
+vim chromahackerweb/__main__.py
+exit
+poetry install
+poetry run chromahacker
+cd Developer/chromahacker
+ls
+cd chromahacker
+ls
+cd chromahacker
+ls
+cd ..
+cd backend
+ls
+cd chromahacker_frontend
+ls
+cd Pictures
+cd secret
+ls
+npx http-server
+exit
+npm run dev
+exit
+poetry run chromahacker
+exit
+cd .config
+cd alacritty.toml
+cd alacritty
+ls
+exit
+clear
+ls
+exit
+wine
+cd Downloads
+ls
+wine geode-installer-v3.2.0-win.exe
+exit
+neofetch
+paru lutgen-rs
+paru lutgen
+sudo pacman -S lutgen
+sudo pacman -S lutgen-bin
+cargo add lutgen
+cargo
+cargo add lutgen
+touch Cargo.toml
+cargo add lutgen
+cargo init
+cargo install
+cargo install lutgen
+cargo install --locked lutgen
+lutgen
+cd pictures
+cd Pictures/
+lutgen apply -p tokyonight Rain.jpg -o Raintoo.jpg
+lutgen apply -p tokyonight-night Rain.jpg -o Raintoo.jpg
+cd Developer/chromahacker/
+ls
+cd chromahacker
+ls
+poetry run chromahacker
+cd ..
+cd backend
+ls
+cd chromahacker
+cd Developer/chromahacker/
+cd backend/chromahacker_frontend/
+ls
+npm run start
+cd Developer/chromahacker/
+ls
+cd backend
+ls
+open colorschemes.json
+cd ..
+cd chromahacker/data/
+ls
+mv colorschemes.json ../chromahacker/
+cd ../chromahacker/
+ls
+mv colorschemes.json backend/colorschemes.json
+cd backend
+ls
+cd cd ..
+cd ..
+mv backend/colorschemes.json ../../backend/
+cd ../../
+cd backend
+ls
+open colorschemes.json
+cp ../image_lib/colorschemes.json colorschemes.json
+open colorschemes.json
+gimp Raintoo.jpg
+ffmpeg -i Rain.jpg -o Rain.png
+ffmpeg -i Rain.jpg Rain.png
+ffmpeg -i Rain.jpg -vf scale=1920:1080 Rain.png
+gimp Rain.jpg
+poetry run chromahacker
+exit
+npm run dev
+exit
+vim colorschemes.json
+exit
+lutgen apply -p tokyonight-night Rain.png -o Raintoo.png
+exit
+cd Developer/chromahacker/
+ls
+cd backend
+ls
+cd Developer/chromahacker/backend/chromahacker_frontend/
+ls
+npm run dev
+exit
+poetry run chromahacker
+exit
+clear
+exit
+cd .config

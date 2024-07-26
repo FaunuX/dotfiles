@@ -4598,3 +4598,86 @@ exit
 clear
 exit
 cd .config
+git add .
+git commit -m "update"
+git push
+git config credential.helper store
+sudo pacman -S spacedrive
+paru spacedrive
+sudo pacman -Syu
+paru spacedrive
+sudo pacman -S spacedrive
+paru spacedrive
+paru debtap
+sudo debtap -u
+cd Downloads
+ls
+debtap Spacedrive-linux-x86_64.AppImage
+Spacedrive-linux-x86_64.AppImage
+./Spacedrive-linux-x86_64.AppImage
+exit
+cd Developer
+ls
+cd ooga
+ls
+cd ..
+cd Bot22/
+ls
+vim main.py
+vim requirements.txt
+cd ..
+cd lmao/
+ls
+cd src
+ls
+cd ..
+mkdir File_Sorting_Utilities/
+cd ..
+cd Developer
+poetry new File_Sorting_Utilities/
+cd File_Sorting_Utilities/
+ls
+touch README.md
+ls
+vim README.md
+poetry rename
+clear
+cd File_Sorting_Utilities/
+poetry install
+poetry run sort
+poetry run python3 file_sorting_utilities/
+poetry run python3 file_sorting_utilities/ --help
+poetry run python3 file_sorting_utilities/
+poetry run python3 file_sorting_utilities/ --folder
+poetry run python3 file_sorting_utilities/ --folder file_sorting_utilities/
+ipython
+sudo pacman -S ipython
+ipython
+pwd
+poetry run ipython
+exit
+poetry run python3 file_sorting_utilities/ --folder ~/Downloads/
+cd File_Sorting_Utilities/
+poetry run python3 file_sorting_utilities/ --folder ~/Downloads/
+ls
+poetry run python3 file_sorting_utilities/ --folder ~/Downloads/
+cd Downloads
+ls
+poetry run python3 file_sorting_utilities/ --folder ~/Downloads/
+ls
+ls | sort-by size
+sudo rm -rf *
+ls
+exit
+exit
+neovide pyproject.toml
+cd File_Sorting_Utilities/
+poetry run python3 file_sorting_utilities/ --folder ~/
+ls
+exit
+sudo pacman -S etcher
+paru etcher
+lsusb
+dmesg
+sudo dmesg
+cd .config

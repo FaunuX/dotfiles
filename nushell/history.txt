@@ -1,1 +1,8 @@
 git rm -rf .
+git add .
+git commit -m "update"
+git push
+git rev-list --objects --all | grep blobid
+bash
+git push
+vim .gitignore

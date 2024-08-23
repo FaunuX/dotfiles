@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!nushell/
+!nvim/
+!alacritty/

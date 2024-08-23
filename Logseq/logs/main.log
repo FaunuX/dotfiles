@@ -1,0 +1,158 @@
+[2024-07-26 20:52:42.777] [info] Logseq App(0.10.9) Starting... 
+[2024-07-26 20:52:42.789] [info] restore proxy settings {:type "system"}
+[2024-07-26 20:52:42.794] [info] set proxy to {:type "system"}
+[2024-07-26 20:52:46.159] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-07-26 20:52:53.585] [debug] window-all-closed Quitting...
+[2024-07-26 21:00:02.203] [info] Logseq App(0.10.9) Starting... 
+[2024-07-26 21:00:02.209] [info] restore proxy settings {:type "system"}
+[2024-07-26 21:00:02.211] [info] set proxy to {:type "system"}
+[2024-07-26 21:00:05.356] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-07-26 21:00:17.647] [debug] window-all-closed Quitting...
+[2024-07-26 21:04:25.779] [info] Logseq App(0.10.9) Starting... 
+[2024-07-26 21:04:25.784] [info] restore proxy settings {:type "system"}
+[2024-07-26 21:04:25.786] [info] set proxy to {:type "system"}
+[2024-07-26 21:04:29.244] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-07-26 21:04:39.767] [debug] window-all-closed Quitting...
+[2024-07-26 21:06:38.546] [info] Logseq App(0.10.9) Starting... 
+[2024-07-26 21:06:38.555] [info] restore proxy settings {:type "system"}
+[2024-07-26 21:06:38.557] [info] set proxy to {:type "system"}
+[2024-07-26 21:06:42.764] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-07-26 21:06:46.954] [debug] window-all-closed Quitting...
+[2024-07-26 21:09:54.358] [info] Logseq App(0.10.9) Starting... 
+[2024-07-26 21:09:54.367] [info] restore proxy settings {:type "system"}
+[2024-07-26 21:09:54.369] [info] set proxy to {:type "system"}
+[2024-07-26 21:09:57.557] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-07-26 21:10:01.202] [info] :electron.handler/open-dir open folder selection dialog
+[2024-07-26 21:10:08.459] [debug] :electron.handler/open-dir {:path "/home/judah/Documents/Notes"}
+[2024-07-26 21:10:16.254] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-07-26 21:16:46.888] [error] Search blocks failed:  SqliteError: fts5: syntax error near "."
+[2024-07-26 21:16:47.150] [error] Search blocks failed:  SqliteError: fts5: syntax error near "."
+[2024-07-26 21:16:47.163] [error] Search page failed:  SqliteError: fts5: syntax error near "."
+[2024-07-26 21:16:47.233] [error] Search blocks failed:  SqliteError: fts5: syntax error near "."
+[2024-07-26 21:16:47.240] [error] Search page failed:  SqliteError: fts5: syntax error near "."
+[2024-07-26 21:16:47.485] [error] Search blocks failed:  SqliteError: fts5: syntax error near "."
+[2024-07-26 21:16:47.492] [error] Search page failed:  SqliteError: fts5: syntax error near "."
+[2024-07-26 21:26:11.888] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-07-26 21:26:12.631] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-07-26 21:26:17.037] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-07-26 21:26:22.406] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-07-26 21:39:48.380] [debug] window-all-closed Quitting...
+[2024-07-27 20:19:26.704] [info] Logseq App(0.10.9) Starting... 
+[2024-07-27 20:19:26.735] [info] restore proxy settings {:type "system"}
+[2024-07-27 20:19:26.739] [info] set proxy to {:type "system"}
+[2024-07-27 20:19:38.312] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-07-27 20:19:38.385] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-07-27 20:19:38.392] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-07-27 20:26:40.666] [info] :electron.handler/backup backup db file pages/Democracy's Biggest Flaw.md
+[2024-07-28 14:39:30.660] [debug] window-all-closed Quitting...
+[2024-08-02 09:42:09.049] [info] Logseq App(0.10.9) Starting... 
+[2024-08-02 09:42:09.084] [info] restore proxy settings {:type "system"}
+[2024-08-02 09:42:09.088] [info] set proxy to {:type "system"}
+[2024-08-02 09:42:22.308] [info] open-url {:url "/nix/store/cr67w1ifrmpjr93062fbqyl98fp6yryx-logseq-0.10.9/share/logseq/resources/app"}
+[2024-08-02 09:42:22.329] [info] upon opening non-url {:error #object[TypeError TypeError [ERR_INVALID_URL]: Invalid URL]}
+[2024-08-02 09:42:28.538] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-02 09:42:28.652] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-02 09:42:28.655] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-02 09:52:05.673] [debug] window-all-closed Quitting...
+[2024-08-02 19:13:27.349] [info] Logseq App(0.10.9) Starting... 
+[2024-08-02 19:13:27.357] [info] restore proxy settings {:type "system"}
+[2024-08-02 19:13:27.359] [info] set proxy to {:type "system"}
+[2024-08-02 19:13:31.535] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-02 19:13:31.647] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-02 19:13:31.648] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-02 20:06:13.817] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-08-02 22:04:03.874] [debug] window-all-closed Quitting...
+[2024-08-03 20:23:01.317] [info] Logseq App(0.10.9) Starting... 
+[2024-08-03 20:23:01.326] [info] restore proxy settings {:type "system"}
+[2024-08-03 20:23:01.328] [info] set proxy to {:type "system"}
+[2024-08-03 20:23:05.079] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-03 20:23:05.131] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-03 20:23:05.132] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-03 20:23:06.933] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-08-04 05:08:22.864] [info] Logseq App(0.10.9) Starting... 
+[2024-08-04 05:08:22.875] [info] restore proxy settings {:type "system"}
+[2024-08-04 05:08:22.876] [info] set proxy to {:type "system"}
+[2024-08-04 05:08:26.833] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-04 05:08:26.876] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-04 05:08:26.877] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-04 05:08:28.390] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-08-04 15:54:25.422] [debug] window-all-closed Quitting...
+[2024-08-05 12:11:44.692] [info] Logseq App(0.10.9) Starting... 
+[2024-08-05 12:11:44.700] [info] restore proxy settings {:type "system"}
+[2024-08-05 12:11:44.701] [info] set proxy to {:type "system"}
+[2024-08-05 12:11:49.132] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-05 12:11:49.191] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-05 12:11:49.193] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-05 12:11:51.191] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-08-07 07:13:30.297] [info] Logseq App(0.10.9) Starting... 
+[2024-08-07 07:13:30.315] [info] restore proxy settings {:type "system"}
+[2024-08-07 07:13:30.317] [info] set proxy to {:type "system"}
+[2024-08-07 07:13:36.698] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-07 07:13:36.738] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-07 07:13:36.739] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-07 07:13:38.330] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-08-07 07:13:43.601] [error] Search blocks failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:43.606] [error] Search page failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:43.842] [error] Search blocks failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:43.908] [error] Search blocks failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:43.915] [error] Search page failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:43.919] [error] Search page failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.026] [error] Search blocks failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.034] [error] Search page failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.287] [error] Search blocks failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.326] [error] Search page failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.438] [error] Search blocks failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.454] [error] Search page failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.659] [error] Search blocks failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.684] [error] Search page failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.883] [error] Search blocks failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:13:44.904] [error] Search page failed:  SqliteError: fts5: syntax error near "'"
+[2024-08-07 07:14:10.691] [debug] window-all-closed Quitting...
+[2024-08-12 18:14:51.390] [info] Logseq App(0.10.9) Starting... 
+[2024-08-12 18:14:51.400] [info] restore proxy settings {:type "system"}
+[2024-08-12 18:14:51.401] [info] set proxy to {:type "system"}
+[2024-08-12 18:14:55.474] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-12 18:14:55.581] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-12 18:14:55.582] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-12 18:22:15.437] [debug] window-all-closed Quitting...
+[2024-08-21 18:18:12.784] [info] Logseq App(0.10.6) Starting... 
+[2024-08-21 18:18:12.793] [info] restore proxy settings {:type "system"}
+[2024-08-21 18:18:12.795] [info] set proxy to {:type "system"}
+[2024-08-21 18:18:16.555] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-21 18:18:16.579] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-21 18:18:16.580] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-21 18:18:33.063] [debug] [Marketplace] === Installing: vipzhicheng/logseq-plugin-vim-shortcuts ===
+[2024-08-21 18:18:33.424] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-08-21 18:18:33.830] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/vipzhicheng/logseq-plugin-vim-shortcuts/releases/latest :status 200
+[2024-08-21 18:18:33.833] [debug] [Marketplace] Release latest: v0.1.22  from https://api.github.com/repos/vipzhicheng/logseq-plugin-vim-shortcuts/releases/assets/146683553
+[2024-08-21 18:18:34.578] [debug] [Marketplace] [Updated DONE] v0.1.22
+[2024-08-21 18:18:38.573] [debug] [Marketplace] === Installing: debanjandhar12/logseq-anki-sync ===
+[2024-08-21 18:18:38.950] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/debanjandhar12/logseq-anki-sync/releases/latest :status 200
+[2024-08-21 18:18:38.951] [debug] [Marketplace] Release latest: v6.4.0  from https://api.github.com/repos/debanjandhar12/logseq-anki-sync/releases/assets/175172810
+[2024-08-21 18:18:40.077] [debug] [Marketplace] [Updated DONE] v6.4.0
+[2024-08-21 18:21:06.954] [info] new-window https://github.com/debanjandhar12/logseq-anki-sync#%EF%B8%8F-installation-video
+[2024-08-21 18:22:52.901] [debug] window-all-closed Quitting...
+[2024-08-21 18:23:03.834] [info] Logseq App(0.10.6) Starting... 
+[2024-08-21 18:23:03.839] [info] restore proxy settings {:type "system"}
+[2024-08-21 18:23:03.840] [info] set proxy to {:type "system"}
+[2024-08-21 18:23:08.293] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-21 18:23:08.328] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-21 18:23:08.330] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-21 18:25:48.416] [debug] window-all-closed Quitting...
+[2024-08-23 10:17:21.590] [info] Logseq App(0.10.6) Starting... 
+[2024-08-23 10:17:21.601] [info] restore proxy settings {:type "system"}
+[2024-08-23 10:17:21.602] [info] set proxy to {:type "system"}
+[2024-08-23 10:17:26.245] [debug] :electron.handler/watch-dir {:path "/home/judah/.logseq/config"}
+[2024-08-23 10:17:26.254] [debug] [Marketplace] === Updating: debanjandhar12/logseq-anki-sync ===
+[2024-08-23 10:17:26.292] [debug] :electron.handler/unwatch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-23 10:17:26.293] [debug] :electron.handler/watch-dir {:path "/home/judah/Documents/Notes"}
+[2024-08-23 10:17:27.076] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-08-23 10:17:27.446] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/debanjandhar12/logseq-anki-sync/releases/latest :status 200
+[2024-08-23 10:17:27.456] [debug] [Marketplace] Release latest: v6.4.0  from https://api.github.com/repos/debanjandhar12/logseq-anki-sync/releases/assets/175172810
+[2024-08-23 10:17:27.458] [debug] [Marketplace] Release compare: v6.4.0 (current) >  v6.4.0 (latest)
+[2024-08-23 10:17:27.459] [debug] [Marketplace] Update skip: no new version
+[2024-08-23 10:17:28.164] [debug] [Marketplace] === Updating: vipzhicheng/logseq-plugin-vim-shortcuts ===
+[2024-08-23 10:17:28.583] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/vipzhicheng/logseq-plugin-vim-shortcuts/releases/latest :status 200
+[2024-08-23 10:17:28.589] [debug] [Marketplace] Release latest: v0.1.22  from https://api.github.com/repos/vipzhicheng/logseq-plugin-vim-shortcuts/releases/assets/146683553
+[2024-08-23 10:17:28.591] [debug] [Marketplace] Release compare: v0.1.22 (current) >  v0.1.22 (latest)
+[2024-08-23 10:17:28.593] [debug] [Marketplace] Update skip: no new version

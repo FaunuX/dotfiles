@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=judahpspiegel@gmail.com
+Enabled=true
+Parent=58b4fb6fc8cbb971d1ddb5cc23cbe675b347d5e9
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=780a959529b81ccb88f80c6e38e242c761f350cb
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=judahpspiegel@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

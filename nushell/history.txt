@@ -3,3 +3,471 @@ git add .
 git commit -m "update"
 git push
 git add .
+exit
+ls
+cd /etc/nixos
+vim configuration.nix
+sudo vim configuration.nix
+sudo nixos-rebuild switch
+sudo vim configuration.nix
+sudo nixos-rebuild switch
+sudo vim configuration.nix
+sudo nixos-rebuild switch
+reboot
+exir
+exit
+neofetch
+cd /etc/nixos
+ls
+sudo vim configuration.nix
+neovide
+exit
+cd /etc/nixos
+sudo neovide configuration.nix
+sudo nixos-rebuild switch
+reboot
+cd /etc/nixos
+sudo vim configuration.nix
+sudo nixos-rebuild switch
+sudo vim configuration.nix
+sudo nixos-rebuild switch
+reboot
+neofetch
+curl parrot.live
+exit
+neofetch
+clear
+exit
+clear
+neofetch
+exit
+gsettings set org.gnome.boxes override-theme false
+exit
+cd .icons
+ls
+cd .config
+ls
+cd icons
+cd ..
+cd .config
+cd forge
+ls
+cd stylesheet
+ls
+cd forge
+ls
+vim stylesheet.css
+sudo vim stylesheet.css
+exit
+neofetch
+clear
+neofetch
+exit
+cd /etc/nixos
+ls
+sudo vim configuration.nix
+sudo nixos-rebuild switch
+reboot
+clear
+curl parrot.live
+exit
+cd /etc/nixos
+ls
+vim configuration.nix
+sudo vim configuration.nix
+sudo nixos-rebuild switch
+sudo vim configuration.nix
+sudo nixos-rebuild switch
+exit
+spicetify apply
+cd .config
+ls
+cd spicetify/
+ls
+spotify
+which spotify
+vim config-xpui.ini
+spicetify apply
+vim config-xpui.ini
+ls
+cd ..
+ls
+mkdir spotify
+cd spotify
+mkdir prefs
+spicetify apply
+cd ../spicetify/
+ls
+cd /opt
+cd /
+ls
+cd run/current-system/sw/bin/
+;s
+ls
+cd spotify
+./spotify
+vim config-xpui.ini
+exit
+exit
+neofetch
+clear
+neofetch
+mkdir Developer
+cd .config
+ls
+cd ..
+ls
+rm -r .config/gtk-4.0/
+mv Tokyonight-Dark-B/ .config/gtk-4.0/
+ls
+cd .config
+s
+ls
+cd gtk-4.0/
+ls
+cd Developer
+git clone https://github.com/odziom91/libadwaita-theme-changer.git<\n>
+cd libadwaita-theme-changer/
+ls
+chmod +x libadwaita-tc.py
+./libadwaita-tc.py
+ls
+./libadwaita-tc.py
+python3 libwaita-tc.py
+python libwaita-tc.py
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+reboot
+cd Developer
+ls
+cd libadwaita-theme-changer/
+ls
+python3 libadwaita-tc.py
+ls
+ls -a
+sudo ls
+cd /
+ls
+cd nix
+ls
+cd store
+ls
+cd ..
+cd var
+ls
+cd nix
+l
+ls
+cd ..
+nvim
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+reboot
+neofetch
+cd Documents
+ls
+rm -rf Documents/
+ls
+rm -rf *
+ls
+clear
+neofetch
+clear
+neofetch
+clear
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+zoom
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+exit
+sudo nixos-rebuild switch
+reboot
+qutebrowser
+exit
+ls
+cd Documents
+ls
+cd Notes
+ls
+cd pages
+ls
+vim `All Distinctions are Sigmoidal.md`
+ls
+vim `Democracy's Biggest Flaw.md`
+exit
+spicetify apply
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+nix flake init
+sudo vim /etc/nixos/configuration.nix
+ls
+cd /etc/nix
+ls
+vim nix.conf
+sudo vim nix.conf
+cd ~/.config
+ls
+exit
+cd elexim
+poetry
+vim /etc/nixos/configuration.nix
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+poetry new ElectionPrediction
+cd ElectionPrediction/
+ls
+cd electionprediction/
+ls
+touch utils.py
+exit
+cd electionprediction/
+cd ElectionPrediction/
+poetry run python3 electionprediction/utils.py
+poetry add scipy
+poetry run python3 electionprediction/utils.py
+poetry install
+poetry lock
+poetry install
+poetry run python3 electionprediction/utils.py
+poetry add numpy
+poetry add scipy
+poetry run python3 electionprediction/utils.py
+poetry install
+poetry lock
+poetry install
+poetry run python3 electionprediction/utils.py
+sudo vim /etc/nixos/configuration.nix
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+poetry install flask
+poetry add flask
+poetry run python3 electionprediction/utils.py
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+cd Developer/ElectionPrediction/
+ls
+vim shell.nix
+nix-shell
+exit
+nix-shell
+exit
+nix-shell
+cd ..
+nix-shell -p lutgen
+exit
+sudo vim /etc/nixos/configuration.nix
+exit
+nix-shell
+cd ..
+nix-shell
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+exit
+reboot
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo
+sudo vim /etc/nixos/configuration.nix
+exit
+ls
+l
+sl
+ls
+cd .config/nvim/
+ls
+cd lua
+ls
+cat plugin.lua
+exit
+cd ElectionPrediction/
+l
+sls
+ls
+cd ElectionPrediction/
+ls
+qutebrowser
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+steam
+exit
+steam
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+exit
+steam
+exit
+cd .config
+ls
+cd qutebrowser/
+ls
+vim blocked-hosts
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+exit
+reboot
+nix-shell
+cd ElectionPrediction/
+ls
+cd ElectionPrediction/
+ls
+nix-shell
+cd ElectionPrediction/
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sampler
+linuxsampler
+exit
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+steam-run -h
+cd Downloads
+ls
+unzip
+extract
+steam-run Muse_Sounds_Manager_Beta.deb
+steam-run ./Muse_Sounds_Manager_Beta.deb
+sudo steam-run ./Muse_Sounds_Manager_Beta.deb
+steam-run sudo ./Muse_Sounds_Manager_Beta.deb
+./Muse_Sounds_Manager_Beta.deb
+sudo ./Muse_Sounds_Manager_Beta.deb
+chmod u+x Muse_Sounds_Manager_Beta.deb
+steam-run ./Muse_Sounds_Manager_Beta.deb
+nix-ld
+reboot
+nix-shell -p nix-ld
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+nix flake init
+ls
+rm flake.nix
+cd /etc/nix
+nix flake init
+sudo nix flake init
+ls
+rm flake.nix
+sudo rm flake.nix
+cd /etc/nixos/
+ls
+sudo nix flake init
+ls
+sudo vim flake.nix
+sudo nixos-rebuild switch
+sudo vim flake.nix
+sudo nixos-rebuild switch
+sudo vim flake.nix
+sudo nixos-rebuild switch
+sudo nixos-rebuild switch --flake#judah
+sudo nixos-rebuild switch --flake /etc/nixos#judah
+vim config-xpui.ini
+vim configuration.nix
+sudo nixos-rebuild switch --flake /etc/nixos#nixos
+nix flake show /etc/nixos
+sudo nixos-rebuild switch --flake .#MAIN
+sudo vim flake.nix
+sudo vim /etc/nixos/configuration.nix
+sudo vim flake.nix
+sudo nixos-rebuild switch --flake .#judah
+sudo vim flake.nix
+sudo nixos-rebuild switch
+sudo vim flake.nix
+sudo nixos-rebuild switch
+sudo vim flake.nix
+sudo nixos-rebuild switch
+sudo nixos-rebuild switch --flake .#judah
+sudo nixos-rebuild switch --flake .#my-nixos
+sudo vim flake.nix
+sudo nixos-rebuild switch --flake .#my-nixos
+sudo vim flake.nix
+sudo nixos-rebuild switch --flake .#judah
+sudo vim flake.nix
+sudo nixos-rebuild switch --flake .#judah
+muse-sounds-manager.packages.x86_64-linux.muse-sounds-manager<\n>
+./muse-sounds-manager.packages.x86_64-linux.muse-sounds-manager
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch --flake .#judah
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch --flake .#judah
+sudo vim /etc/nixos/configuration.nix
+sudo vim flake.nix
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch --flake .#judah
+sudo vim flake.nix
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch --flake .#judah
+reboot
+musescore
+mscore
+mscore -h
+mscore --install
+exit
+sudo vim /etc/nixos/configuration.nix
+cd /etc/nixos
+sudo vim flake.nix
+sudo nixos-rebuild switch --flake .#judah
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch --flake .#judah
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch --flake .#judah
+opus
+lipopus
+exi
+which nu
+vim .config/alacritty/alacritty.toml
+alacrityt
+alacritty
+vim .config/alacritty/alacritty.toml
+exit
+nu
+suo vim /etc/nixos/configuration.nix
+sudo vim /etc/
+sudo vim /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+ls
+cd .config/
+git add .
+ls
+cat .gitignore
+ls -a
+vim .gitignore

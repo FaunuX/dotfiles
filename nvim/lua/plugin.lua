@@ -20,8 +20,6 @@ require('packer').startup(function(use)
 	use "akinsho/toggleterm.nvim"
 	use "nvim-lua/plenary.nvim"
 
-	use 'mhinz/vim-startify'
-
 	use 'tpope/vim-fugitive'
 	use 'neovim/nvim-lspconfig'
 	use 'lukas-reineke/indent-blankline.nvim'
@@ -55,17 +53,6 @@ end
 
 vim.g.godot_executable = '/Applications/Godot.app'
 
-require("nvim-tree").setup({ 
-	sync_root_with_cwd = true, 
-	view = { 
-		float = { 
-			enable = true ,
-			open_win_config = {
-				border = "none"
-			}
-		}
-	}
-})
 
 require('lualine').setup {
 	options = {
@@ -82,5 +69,8 @@ require('lualine').setup {
 	sections = {lualine_c = {'lsp_progress'}, }
 }
 
-require'lspconfig'.pyright.setup{}
-require'lspconfig'.rust_analyzer.setup{}
+-- require'lspconfig'.pyright.setup{}
+-- require'lspconfig'.rust_analyzer.setup{}
+
+require("autoclose").setup()
+require("nvim-tree").setup()

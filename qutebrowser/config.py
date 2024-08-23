@@ -509,7 +509,7 @@ c.colors.downloads.system.bg = 'rgb'
 ## `colors.webpage.darkmode.threshold.background` to 205.  - "With
 ## selective inversion of everything": Combines the two variants   above.
 ## Type: Bool
-c.colors.webpage.darkmode.enabled = True
+c.colors.webpage.darkmode.enabled = False
 
 ## Render all colors as grayscale. This only has an effect when
 ## `colors.webpage.darkmode.algorithm` is set to `lightness-hsl` or
@@ -723,7 +723,6 @@ c.content.blocking.method = 'both'
 ## given page, use the `content.blocking.enabled` setting with a URL
 ## pattern instead.
 ## Type: List of UrlPattern
-c.content.blocking.whitelist = ['www.reddit.com/r/baseball/']
 
 ## Enable support for the HTML 5 web application cache feature. An
 ## application cache acts like an HTTP cache in some sense. For documents
@@ -879,7 +878,7 @@ c.content.blocking.whitelist = ['www.reddit.com/r/baseball/']
 ## QtWebEngine, writing the clipboard as response to a user interaction
 ## is always allowed.
 ## Type: Bool
-c.content.javascript.can_access_clipboard = True
+c.content.javascript.clipboard = "access-paste"
 
 ## Allow JavaScript to close tabs.
 ## Type: Bool
@@ -1108,7 +1107,7 @@ c.content.javascript.can_access_clipboard = True
 ## Type: List of File, or File
 # c.content.user_stylesheets = []
 
-c.content.user_stylesheets = ["~/.config/qutebrowser/solarized-everything-css/css/tokyonight/tokyonight-all-sites.css"]
+# c.content.user_stylesheets = ["~/.config/qutebrowser/solarized-everything-css/css/tokyonight/tokyonight-all-sites.css"]
 
 ## Enable WebGL.
 ## Type: Bool
@@ -2482,5 +2481,5 @@ c.colors.messages.warning.bg = '#ff9e64'
 c.colors.messages.warning.fg = '#16161e'
 c.colors.messages.error.bg = '#f7768e'
 c.colors.messages.error.fg = '#16161e'
-c.colors.webpage.bg = '#1f2335'
+# c.colors.webpage.bg = '#1f2335'
 

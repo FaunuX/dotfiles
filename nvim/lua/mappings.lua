@@ -1,4 +1,4 @@
-vim.api.nvim_set_keymap( "n", "<C-v>", '"+p', {noremap = true, silent = true})
+vim.api.nvim_set_keymap( "n", "<C-v>", '"+P"', {noremap = true, silent = true})
 
 function toggle_theme()
 	if vim.o.background == 'light' then

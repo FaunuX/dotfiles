@@ -1,0 +1,6 @@
+2024/08/23-07:11:32.732 332d Reusing MANIFEST /home/judah/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/08/23-07:11:32.733 332d Recovering log #525
+2024/08/23-07:11:32.733 332d Reusing old log /home/judah/.config/discord/Local Storage/leveldb/000525.log 
+2024/08/23-07:26:43.019 332d Level-0 table #529: started
+2024/08/23-07:26:43.073 332d Level-0 table #529: 3237075 bytes OK
+2024/08/23-07:26:43.078 332d Delete type=0 #525

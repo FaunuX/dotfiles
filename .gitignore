@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+
+!nvim/
+!Logseq/
+!alacritty/
+!nushell/
+!qutebrowser/
+!spicetify

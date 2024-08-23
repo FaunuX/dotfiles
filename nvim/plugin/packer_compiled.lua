@@ -49,8 +49,8 @@ local function save_profiles(threshold)
 end
 
 time([[Luarocks path setup]], true)
-local package_path_str = "/Users/judah/.cache/nvim/packer_hererocks/2.1.0-beta3/share/lua/5.1/?.lua;/Users/judah/.cache/nvim/packer_hererocks/2.1.0-beta3/share/lua/5.1/?/init.lua;/Users/judah/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/luarocks/rocks-5.1/?.lua;/Users/judah/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/luarocks/rocks-5.1/?/init.lua"
-local install_cpath_pattern = "/Users/judah/.cache/nvim/packer_hererocks/2.1.0-beta3/lib/lua/5.1/?.so"
+local package_path_str = "/home/judah/.cache/nvim/packer_hererocks/2.1.1693350652/share/lua/5.1/?.lua;/home/judah/.cache/nvim/packer_hererocks/2.1.1693350652/share/lua/5.1/?/init.lua;/home/judah/.cache/nvim/packer_hererocks/2.1.1693350652/lib/luarocks/rocks-5.1/?.lua;/home/judah/.cache/nvim/packer_hererocks/2.1.1693350652/lib/luarocks/rocks-5.1/?/init.lua"
+local install_cpath_pattern = "/home/judah/.cache/nvim/packer_hererocks/2.1.1693350652/lib/lua/5.1/?.so"
 if not string.find(package.path, package_path_str, 1, true) then
   package.path = package.path .. ';' .. package_path_str
 end
@@ -76,102 +76,92 @@ time([[Defining packer_plugins]], true)
 _G.packer_plugins = {
   ["autoclose.nvim"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/autoclose.nvim",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/autoclose.nvim",
     url = "https://github.com/m4xshen/autoclose.nvim"
   },
   ["indent-blankline.nvim"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
     url = "https://github.com/lukas-reineke/indent-blankline.nvim"
   },
   ["lualine.nvim"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
-  },
-  ["minimap.vim"] = {
-    loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/minimap.vim",
-    url = "https://github.com/wfxr/minimap.vim"
   },
   ["nvim-lspconfig"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
     url = "https://github.com/neovim/nvim-lspconfig"
   },
   ["nvim-tree.lua"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
     url = "https://github.com/nvim-tree/nvim-tree.lua"
   },
   ["nvim-web-devicons"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
     url = "https://github.com/nvim-tree/nvim-web-devicons"
   },
   ["packer.nvim"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/packer.nvim",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/packer.nvim",
     url = "https://github.com/wbthomason/packer.nvim"
   },
   ["plenary.nvim"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
-  },
-  ["tabnine-nvim"] = {
-    loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/tabnine-nvim",
-    url = "https://github.com/codota/tabnine-nvim"
   },
   ["telescope.nvim"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
   ["toggleterm.nvim"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
     url = "https://github.com/akinsho/toggleterm.nvim"
   },
   ["tokyonight.nvim"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
     url = "https://github.com/folke/tokyonight.nvim"
   },
   ["vim-airline"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/vim-airline",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/vim-airline",
     url = "https://github.com/vim-airline/vim-airline"
   },
   ["vim-commentary"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/vim-commentary",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/vim-commentary",
     url = "https://github.com/tpope/vim-commentary"
   },
   ["vim-devicons"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/vim-devicons",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/vim-devicons",
     url = "https://github.com/ryanoasis/vim-devicons"
   },
   ["vim-fugitive"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
   },
   ["vim-rooter"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/vim-rooter",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/vim-rooter",
     url = "https://github.com/airblade/vim-rooter"
   },
   ["vim-startify"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/vim-startify",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/vim-startify",
     url = "https://github.com/mhinz/vim-startify"
   },
   ["vim-surround"] = {
     loaded = true,
-    path = "/Users/judah/.local/share/nvim/site/pack/packer/start/vim-surround",
+    path = "/home/judah/.local/share/nvim/site/pack/packer/start/vim-surround",
     url = "https://github.com/tpope/vim-surround"
   }
 }

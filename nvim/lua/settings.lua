@@ -4,5 +4,5 @@ vim.opt.termguicolors = true
 vim.opt.virtualedit = 'block'
 
 if vim.g.neovide then
-	vim.o.guifont = "Fira Code:h12"
+	-- vim.o.guifont = "Fira Code:h12"
 end

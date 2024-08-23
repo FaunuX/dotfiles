@@ -34,7 +34,7 @@ foreground = "0xc0caf5"
 size = 12.0
 
 [shell]
-program = "/usr/bin/nu"
+program = "nu"
 
 [window.padding]
 x = 16

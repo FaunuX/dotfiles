@@ -1,7 +1,0 @@
-2024/08/02-20:07:08.009 3684 Reusing MANIFEST /home/judah/.config/Logseq/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/02-20:07:08.010 3684 Recovering log #3
-2024/08/02-20:07:08.011 3684 Reusing old log /home/judah/.config/Logseq/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2024/08/02-20:07:11.177 3684 Level-0 table #5: started
-2024/08/02-20:07:11.182 3684 Level-0 table #5: 9938 bytes OK
-2024/08/02-20:07:11.188 3684 Delete type=0 #3
-2024/08/02-20:07:11.188 3684 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
